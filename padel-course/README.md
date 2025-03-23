@@ -16,7 +16,6 @@ Master the essential techniques and fundamentals:
 
 ### [@Level 2: Building Skills (Intermediate)](levels/level-2/README.md)
 Develop intermediate techniques and tactical awareness:
-- [Shot Placement & Court Awareness](levels/level-2/sessions/shot-placement.md)
 - [Wall Play Fundamentals](levels/level-2/sessions/wall-play.md)
 - [Doubles Strategy Essentials](levels/level-2/sessions/doubles-strategy.md)
 - [Transition Game Development](levels/level-2/sessions/transition-game.md)

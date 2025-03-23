@@ -11,16 +11,14 @@ Level 2 focuses on building intermediate skills with emphasis on tactical awaren
 - Comfortable with basic defensive play
 
 ## Sessions
-### 1. [Shot Placement & Court Awareness](sessions/shot-placement.md)
-Master tactical court zones and strategic shot selection to control points effectively.
 
-### 2. [Wall Play Fundamentals](sessions/wall-play.md)
+### 1. [Wall Play Fundamentals](sessions/wall-play.md)
 Develop advanced wall techniques for both defensive and offensive situations.
 
-### 3. [Doubles Strategy Essentials](sessions/doubles-strategy.md)
+### 2. [Doubles Strategy Essentials](sessions/doubles-strategy.md)
 Learn effective partner communication and coordinated court positioning strategies.
 
-### 4. [Transition Game](sessions/transition-game.md)
+### 3. [Transition Game](sessions/transition-game.md)
 Master the art of transitioning between defensive and attacking positions with your partner.
 
 ## Expected Outcomes
