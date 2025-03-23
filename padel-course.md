@@ -1,355 +1,461 @@
 # Zero to Hero Padel Course
 
-## Level 1: Foundations (Beginner)
+Welcome to the comprehensive padel course designed to take you from a complete beginner to an advanced player. This course is structured in four progressive levels, each building upon the previous one to develop your skills systematically.
+
+## Foundations
 
 ### Session 1: Introduction to Padel & Essential Equipment
 
+<details>
 #### History and Origins
-- Invented by Enrique Corcuera in 1969 in Acapulco, Mexico
-- Introduced to Spain in 1974 by Prince Alfonso of Hohenlohe
-- Gained significant popularity in Argentina and Spain
-- Recognized as an official sport in Spain in 1993
-- Establishment of the International Padel Federation (FIP)
-- Currently one of the fastest-growing racquet sports globally
+- 📺 [What is Padel? USPTA](https://youtu.be/rSIvS-Skg28) (0:00-0:59)
+  - Invented in 1969 in Mexico
+  - Growth in Spain and Latin America
+  - Modern global expansion
+  - Sport's unique characteristics
 
-#### Court Layout and Dimensions
-- Court size: 20m length × 10m width (with 0.5% tolerance)
-- Enclosed rectangular court with glass walls and wire mesh
-- Back walls: 4m high (3m solid wall + 1m wire mesh)
-- Side walls: Stepped design
-  - First section: 3m high × 2m long
-  - Second section: 2m high × 2m long
-  - Wire mesh extends to 3-4m height
-- Net specifications:
-  - 10m wide
-  - 88cm high at center
-  - Maximum 92cm at sides
-- Playing surface:
-  - Porous material (concrete, synthetic, artificial turf)
-  - Usually green, blue, or terracotta colored
-  - Must allow regular ball bounce
+#### Rules and Court Layout
+- 📺 [Padel 101: Beginner's Guide](https://youtu.be/i99oFa-dXaI?t=0) (0:00-5:00)
+  - Court dimensions and features
+  - Basic rules and scoring
+  - Service rules
+  - Wall play regulations
 
-#### Basic Rules and Scoring
-- Scoring system similar to tennis:
-  - Points: 15, 30, 40, game
-  - 6 games to win a set
-  - Best of 3 sets to win a match
-  - Tie-break at 6-6
-- Service rules:
-  - Underhand serve required
-  - Ball must bounce in server's court first
-  - Ball must be hit below waist height
-  - Server must stand behind the baseline
-  - Ball must land in diagonal service box
-  - If ball touches the net and passes, it's a "LET" and should be reserved
-  - A second service can be done if first serve was a fault
-  - If the ball bounces in the service box and hits the glass wall, it's valid
-  - If the ball bounces in the service box and hits the wire fence, it's a fault
-- Gameplay rules:
-  - Ball can be played off walls after bouncing
-  - Only one bounce allowed before returning
-  - Players can exit court to play balls that bounce outside
-  - Ball must clear net on every shot
-  - Points lost if ball hits wire mesh before crossing net
-  - Ball must bounce on the ground before hitting a wall
-  - Players can hit the ball against the glass on their side to return it over the net
-  - Players cannot hit the ball against the mesh on their side
-  - The ball may only be hit once by a player
-  - Players cannot touch the net during play
-  - Point is lost if the ball bounces twice on your side
+#### Basic Gameplay
+- 📺 [PadelPod Rules Guide](https://youtu.be/RkdQ61VKKtI) (0:00-1:20)
+  - Doubles play format
+  - Point scoring system
+  - Wall usage in play
+  - Key differences from tennis
 
 #### Equipment Guide
-1. **Racket Selection** - ["Complete Guide to Padel Equipment"](https://youtu.be/ehvlxdGuI-I?t=22) (0:22 - 2:30)
-   - Price ranges for beginners
-   - Racket shapes and materials
-   - Testing before buying
-   
-2. **Footwear Requirements** - ["Why You Need Proper Padel Shoes"](https://youtu.be/BA6KyYp3vEo?t=15) (0:15 - 3:00)
-   - Flexibility requirements
-   - Width considerations
-   - Grip patterns for court surface
+- 📺 [Complete Equipment Guide](https://youtu.be/ehvlxdGuI-I?t=22) (0:22-5:30)
+  - Racket selection and price ranges
+  - Grip types and protection
+  - Ball specifications
+  - Equipment maintenance
 
-3. **Balls and Accessories** - ["Balls and Equipment Care"](https://youtu.be/ehvlxdGuI-I?t=274) (4:34 - 5:30)
-   - Difference between padel and tennis balls
-   - Ball replacement frequency
-   - Equipment protection and maintenance
+#### 📺 [Footwear Guide](https://youtu.be/BA6KyYp3vEo?t=15) (0:15-3:00)
+  - Proper shoe characteristics
+  - Grip patterns for court surface
+  - Flexibility requirements
+  - Width considerations
 
-4. **Grip and Protection** - ["Grip Selection and Racket Protection"](https://youtu.be/ehvlxdGuI-I?t=189) (3:09 - 4:30)
-   - Grip sizing and types
-   - Racket protectors
-   - Equipment storage tips
+#### Quick Tips
+- Always use the safety wrist strap
+- Start with basic shots before wall play
+- Communicate with your partner
+- Stay behind the service line when receiving
+- Keep a continental grip for most shots
+- Focus on control over power
+- Choose beginner-friendly rackets
+- Invest in proper court shoes
 
-#### Safety and Etiquette
-- Proper warm-up essential
-- Respect court rules and other players
-- Communication with partner
-- Maintain safe distance from walls
-- Follow facility guidelines
+#### Common Mistakes
+- ❌ Playing without proper footwear
+  - ✅ Use court-specific shoes for grip and stability
+- ❌ Incorrect scoring understanding
+  - ✅ Learn tennis scoring system (15,30,40,game)
+- ❌ Wrong service technique
+  - ✅ Always serve underhand below waist
+- ❌ Poor court positioning
+  - ✅ Learn and maintain proper court positions
+- ❌ Using advanced equipment too soon
+  - ✅ Start with beginner-friendly rackets
+- ❌ Neglecting safety equipment
+  - ✅ Always use wrist strap and proper shoes
+</details>
 
 ### Session 2: Grip and Stance
+<details>
+#### Basic Grip
+- 📺 [Padel Grip - How to hold the racket](https://youtu.be/B_tRre1W5e4?t=4) (0:04-1:34)
+  - Continental grip fundamentals
+  - Safety loop usage
+  - Grip size adjustment
 
-#### Basic Grip Technique - ["Padel Grip Fundamentals"](https://youtu.be/B_tRre1W5e4?t=4) (0:04 - 1:34)
-- Continental grip basics
-- Safety loop usage
-- Grip size and adjustment
+#### Advanced Grip
+- 📺 [Find YOUR Padel Grip! Padel Technique!](https://youtu.be/Giq1P4T9mK8?t=50) (0:50-2:30)
+  - Grip transitions between shots
+  - Pressure control techniques
+  - Common grip errors
 
-#### Advanced Grip Variations - ["Finding Your Perfect Grip"](https://youtu.be/Giq1P4T9mK8?t=50) (0:50 - 2:30)
-- Transitioning between forehand and backhand
-- Common grip errors
-- Grip pressure control
+#### Court Position
+- 📺 [Padel Tactics: Basic Court Position](https://youtu.be/17DC_atNmkQ?t=46) (0:46-2:30)
+  - Back court positioning
+  - Net position fundamentals
+  - Distance from walls
 
-#### Court Positioning - ["Mastering Court Position"](https://youtu.be/jdWb7zf6iWk?t=46) (0:46 - 2:30)
-- Back court positioning
-- Distance from service line
-- Side glass reference points
+#### Quick Tips
+- Use continental grip as your base position
+- Always secure the safety loop
+- Match grip size to your hand
+- Stay balanced and ready to move
+- Keep proper distance from walls
+- Maintain racket in front at chest height
 
-#### Movement and Recovery - ["Position and Movement"](https://youtu.be/jdWb7zf6iWk?t=159) (2:39 - 4:00)
-- Defensive coverage
-- Partner coordination
-- Recovery patterns
+#### Common Mistakes
+- ❌ Holding the racket too tight
+  - ✅ Maintain a relaxed, firm grip
+- ❌ Not using the safety loop
+  - ✅ Always secure your wrist
+- ❌ Standing too close to walls
+  - ✅ Keep safe distance for movement
+- ❌ Poor ready position
+  - ✅ Stay balanced and prepared
+</details>
 
 ### Session 3: Movement Fundamentals
+<details>
+#### Footwork Fundamentals
+- 📺 [How to MOVE YOUR FEET for padel!](https://youtu.be/hpdGd2KdPrk?t=35) (0:35-1:48)
+  - Split step timing and execution
+  - Basic movement patterns
+  - Tennis vs padel differences
 
-#### Basic Footwork - ["Essential Footwork Guide"](https://youtu.be/hpdGd2KdPrk?t=3) (0:03 - 2:00)
-- Split step technique
-- Light bouncing on toes
-- Movement timing
+#### Multi-directional Movement
+- 📺 [How to MOVE YOUR FEET for padel!](https://youtu.be/hpdGd2KdPrk?t=260) (4:20-5:30)
+  - Back court movement
+  - Side-to-side transitions
+  - Glass wall positioning
 
-#### Directional Movement - ["Multi-directional Movement"](https://youtu.be/hpdGd2KdPrk?t=260) (4:20 - 5:30)
-- Back court movement
-- Side-to-side transitions
-- Glass wall positioning
+#### Essential Steps
+- 📺 [Try these 3 Essential Steps for Padel!](https://youtu.be/mRCrvoZijRs?t=0) (0:00-0:21)
+  - Core movement patterns
+  - Quick reference guide
+  - Common footwork patterns
 
-#### Volley Movement - ["Volley Footwork"](https://youtu.be/IxWQtWYvYw8?t=0) (0:00 - 1:30)
-- Stepping patterns
-- Cross-stepping technique
-- Balance and positioning
+#### Quick Tips
+- Split when opponent hits, not when ball reaches you
+- Keep bounce light to maintain agility
+- Take small, quick steps rather than large strides
+- Stay balanced throughout movement
+- Keep head still while moving
+- Recover to ready position after each shot
 
-#### Recovery and Transitions - ["Movement Recovery"](https://youtu.be/hpdGd2KdPrk?t=295) (4:55 - 6:00)
-- Quick recovery steps
-- Position readjustment
-- Partner coordination
+#### Common Mistakes
+- ❌ Standing flat-footed between points
+  - ✅ Stay light on your toes
+- ❌ Not performing split step consistently
+  - ✅ Split step on every opponent contact
+- ❌ Taking steps that are too wide
+  - ✅ Use small, controlled steps
+- ❌ Not recovering to ready position
+  - ✅ Return to ready position after shots
+</details>
 
 ### Session 4: Groundstrokes
 
-#### Forehand Technique - ["The Padel Forehand"](https://youtu.be/YawHc7Cv8us?t=13) (0:13 - 2:00)
-- Early preparation with shoulder turn
-- Compact racket take-back
-- Balanced stance and footwork
-- Horizontal swing path through contact
+<details>
+#### Forehand Technique
+- 📺 [The Padel Forehand](https://youtu.be/YawHc7Cv8us?t=13) (0:13-2:00)
+  - Early preparation with shoulder turn
+  - Compact racket take-back
+  - Balanced stance and footwork
+  - Horizontal swing path through contact
 
-#### Common Mistakes to Avoid - ["3 TIPS for Padel Forehand"](https://youtu.be/P6wsvgqXz_A?t=232) (3:52 - 5:00)
-- Late preparation
-- Missing the split step
-- Ball watching without early racket preparation
-- Attempting shots beyond current skill level
+#### Common Mistakes
+- 📺 [3 TIPS for Padel Forehand!](https://youtu.be/P6wsvgqXz_A?t=232) (3:52-5:00)
+  - Late preparation issues
+  - Missing the split step
+  - Ball watching without early racket preparation
 
-#### Stance Options
-- Neutral stance: Side-on position, ideal for balls in front
-- Open stance: Used when time is limited or moving laterally
+#### Backhand Technique
+- 📺 [Struggle with your Backhand?](https://youtu.be/5MH8RDf4qfg?t=34) (0:34-2:00)
+  - Single-handed flat backhand
+  - Contact point below chest height
+  - Proper body positioning
+  - Compact swing for control
 
-#### Backhand Technique - ["Struggle with your Backhand?"](https://youtu.be/5MH8RDf4qfg?t=34) (0:34 - 2:00)
-- Single-handed flat backhand
-- Contact point below chest height
-- Proper body positioning and balance
-- Compact swing for control
+#### Quick Tips
+- Prepare early with shoulder turn
+- Keep racket head above wrist
+- Watch the ball until contact
+- Follow through towards target
+- Recover to ready position
+- Stay balanced throughout shot
 
-#### Practice Drills
-- Basic groundstroke rallies focusing on consistency
-- Alternating forehand and backhand shots
-- Movement and recovery patterns
-- Control and placement exercises
+#### Common Mistakes
+- ❌ Late preparation
+  - ✅ Turn shoulders as opponent hits
+- ❌ Over-swinging
+  - ✅ Keep swing compact and controlled
+- ❌ Poor balance
+  - ✅ Maintain stable base throughout
+- ❌ Wrong contact point
+  - ✅ Hit ball in front of body
+</details>
 
 ### Session 5: Serve & Return
 
-#### Serve Mechanics - ["Perfect Your Padel Serve"](https://youtu.be/YSCbbCYfc9Y?t=16) (0:16 - 2:00)
-- Start position: Side-on stance
-- Racket preparation from high to low
-- Contact point at waist height or below
-- Light slice for control
+<details>
+#### Serve Mechanics
+- 📺 [Perfect Your Padel Serve](https://youtu.be/YSCbbCYfc9Y?t=16) (0:16-2:00)
+  - Side-on stance
+  - Racket preparation from high to low
+  - Contact point at waist height
+  - Light slice for control
 
-#### Key Target Areas - ["Perfect Your Padel Serve"](https://youtu.be/YSCbbCYfc9Y?t=210) (3:30 - 4:30)
-- Against the side glass
-- Down the 'T' (center)
-- Focus on accuracy before power
+#### Key Target Areas
+- 📺 [Perfect Your Padel Serve](https://youtu.be/YSCbbCYfc9Y?t=210) (3:30-4:30)
+  - Against the side glass
+  - Down the 'T' (center)
+  - Focus on accuracy before power
 
-#### Common Mistakes to Avoid
-- Excessive spin attempts
-- Wild aggressive first serves
-- Inconsistent second serves
-- Poor placement accuracy
+#### Return Fundamentals
+- 📺 [Perfect Padel Return](https://youtu.be/qOEUKLLQ9pY?t=156) (2:36-3:30)
+  - One step behind service line
+  - Slightly more central position
+  - Adjust based on serve type
+  - Ready position with early preparation
 
-#### Return Fundamentals - ["Perfect Padel Return"](https://youtu.be/qOEUKLLQ9pY?t=156) (2:36 - 3:30)
-- One step behind service line
-- Slightly more central position
-- Adjust based on serve type
-- Ready position with early preparation
+#### Return Strategy
+- 📺 [Perfect Padel Return](https://youtu.be/qOEUKLLQ9pY?t=50) (0:50-2:00)
+  - Focus on consistency over winners
+  - Choose appropriate target zones
+  - Adjust height based on skill level
+  - Maintain good margin over the net
 
-#### Return Strategy - ["Perfect Padel Return"](https://youtu.be/qOEUKLLQ9pY?t=50) (0:50 - 2:00)
-- Focus on consistency over winners
-- Choose appropriate target zones
-- Adjust height based on skill level
-- Maintain good margin over the net
+#### Quick Tips
+- Keep serve motion simple and controlled
+- Practice accuracy before adding power
+- Stay balanced during serve motion
+- Return to ready position quickly
+- Watch server's contact point
+- Keep return shots safe and consistent
+
+#### Common Mistakes
+- ❌ Over-complicating serve motion
+  - ✅ Keep technique simple and repeatable
+- ❌ Trying to serve too hard
+  - ✅ Focus on placement and consistency
+- ❌ Poor return positioning
+  - ✅ Stay behind service line, ready to move
+- ❌ Going for winners on return
+  - ✅ Prioritize getting return in play
+</details>
 
 ### Session 6: Net Play
 
-#### Ready Position - ["Padel Volleys"](https://youtu.be/wCAqvaqrnZ4?t=4) (0:04 - 1:30)
-- Racket vertical and in front
-- Feet hip-width apart
-- Weight on toes
-- Quick preparation stance
+<details>
+#### Volley Fundamentals
+- 📺 [Padel Volleys](https://youtu.be/wCAqvaqrnZ4?t=4) (0:04-2:10)
+  - Ready position and grip
+  - Racket preparation and footwork
+  - Contact point and blocking technique
+  - Simple and effective execution
 
-#### Key Components - ["6 VOLLEY TIPS"](https://youtu.be/mnoPS8odf40?t=72) (1:12 - 2:30)
-- Continental grip with shoulder turn
-- Compact backswing
-- Firm wrist and forearm
-- Block motion vs. swing
+#### Advanced Volley Tips
+- 📺 [6 VOLLEY TIPS! Start being EFFECTIVE at net](https://youtu.be/mnoPS8odf40?t=23) (0:23-3:40)
+  - Ready position essentials
+  - Strategic volley selection
+  - Continental grip mastery
+  - Movement patterns
 
-#### Common Mistakes to Avoid
-- Incorrect grip position
-- Standing too close to net
-- Dropping wrist on low volleys
-- Over-swinging at the ball
+#### Basic Smash Technique
+- 📺 [Key to a BIG SMASH](https://youtu.be/5l0vMSN2Mek?t=31) (0:31-2:00)
+  - Relaxed arm preparation
+  - Loose wrist for power
+  - Focus on racket speed
+  - Proper timing on contact
 
-#### Smash Introduction - ["Key to a BIG SMASH"](https://youtu.be/5l0vMSN2Mek?t=31) (0:31 - 2:00)
-- Relaxed arm preparation
-- Loose wrist for power
-- Focus on racket speed
-- Proper timing on contact
+#### Quick Tips
+- Keep racket head up at net
+- Small steps for quick adjustments
+- Watch the ball off opponent's racket
+- Stay balanced during volleys
+- Communicate with partner
+- Simple technique over power
+- Move forward on weak balls
 
-#### Practice Drills
-- Basic volley progression
-- Alternating forehand/backhand volleys
-- Smash timing exercises
-- Net position recovery drills
+#### Common Mistakes
+- ❌ Dropping racket between shots
+  - ✅ Keep racket up and ready
+- ❌ Big backswing on volleys
+  - ✅ Keep backswing compact
+- ❌ Late preparation on smash
+  - ✅ Early racket preparation
+- ❌ Standing too close to net
+  - ✅ Allow space for reaction
+</details>
 
 ### Session 7: Defensive Shots
 
-#### Defensive Position Fundamentals - ["10 Killer Defensive Padel Tips"](https://youtu.be/xWobKK1Ex38?t=5) (0:05 - 1:30)
-- Base position between service line and back glass
-- Avoid "no man's land"
-- Maintain flexibility for movement
+<details>
+#### Lob Technique
+- 📺 [The lob: six top tips from Mauri Andrini](https://youtu.be/XZ6rTPb3yuY?t=31) (0:31-2:45)
+  - Proper grip and stance
+  - Knee bend for power
+  - Contact point control
+  - Height and trajectory
+  - Timing and placement
+
+#### Defensive Wall Play
+- 📺 [10 Killer DEFENSIVE Padel Tips](https://youtu.be/xWobKK1Ex38?t=32) (0:32-4:10)
+  - Defensive positioning
+  - Footwork fundamentals
+  - Racket preparation
+  - Wall shot technique
+  - Shot selection
+
+#### Quick Tips
+- Keep racket head up for quick reactions
+- Use height to buy recovery time
+- Watch opponent's position
+- Stay patient in defense
+- Communicate defensive intentions
+- Move early to defensive position
+- Use walls to your advantage
+
+#### Common Mistakes
+- ❌ Defensive shots too low
+  - ✅ Add height for better defense
+- ❌ Poor court positioning
+  - ✅ Move early to defensive stance
+- ❌ Rushing defensive shots
+  - ✅ Stay patient and controlled
+- ❌ Ignoring wall options
+  - ✅ Include walls in defensive play
+</details>
+
+## Building Coordination
+
+### Session 8: Wall Play Fundamentals
+
+<details>
+#### Back Wall Techniques
+- 📺 [Back Wall Defense](https://youtu.be/4tyqxobE0S0?t=15) (0:15-2:00)
+  - Anticipating ball trajectory
+  - Proper distance from wall
+  - Body positioning for rebounds
+  - Recovery footwork
+
+#### Shot Execution
+- 📺 [Back Wall Returns](https://youtu.be/QIipTb8EYPY?t=30) (0:30-2:15)
+  - Timing your shot
+  - Using wall height effectively
+  - Control vs. counter-attack options
+  - Reading opponent intentions
+
+#### Side Wall Techniques
+- 📺 [Side Wall Defense](https://youtu.be/QIipTb8EYPY?t=180) (3:00-4:30)
+  - Recovery positioning
+  - Reading opponent intentions
+  - Safe return options
+  - Wall angle awareness
+
+#### Quick Tips
+- Stay patient on wall shots
+- Keep racket prepared early
+- Watch opponent position
+- Maintain safe wall distance
+- Use wall height effectively
+- Communicate with partner
+- Focus on control over power
+- Return to ready position quickly
+
+#### Common Mistakes
+- ❌ Standing too close to wall
+  - ✅ Maintain 1-2m distance for movement
+- ❌ Rushing wall shots
+  - ✅ Stay patient and read the bounce
+- ❌ Poor recovery position
+  - ✅ Return to ready position after shot
+- ❌ Ignoring partner communication
+  - ✅ Call shots and coordinate movement
+- ❌ Over-hitting wall returns
+  - ✅ Focus on control and placement
+</details>
+
+### Session 9: Doubles Strategy Essentials
+
+<details>
+#### Partner Communication
+- 📺 [HELP Your Partner - Padel Tactics!](https://youtu.be/yrIlDgfHqb4?t=9) (0:09-2:25)
+  - Verbal calls ("mine", "yours", "switch")
+  - Hand signals for serves
+  - Movement intentions
+  - Partner coordination
+
+#### Strategic Communication
+- 📺 [IMPROVE as a TEAM - Padel Tactics](https://youtu.be/QPCUK5t7qW8?t=207) (3:27-5:20)
+  - Team movement patterns
+  - Tactical adjustments
+  - Position synchronization
+  - Reading game situations
+
+#### Quick Tips
+- Call every ball early and clearly
+- Use hand signals behind back for serves
+- Stay connected with partner's movement
+- Maintain equal court coverage
 - Return to base position after shots
+- Communicate tactical changes
+- Watch opponents' patterns together
+- Support partner's defensive plays
 
-#### Defensive Techniques - ["Defensive Movement Drills"](https://youtu.be/xWobKK1Ex38?t=62) (1:02 - 2:30)
-- Proper foot positioning
-- Split-step preparation
-- Constant foot movement
-- Move with the ball
+#### Common Mistakes
+- ❌ Poor communication on shared balls
+  - ✅ Call balls early and decisively
+- ❌ Inconsistent positioning
+  - ✅ Maintain synchronized court coverage
+- ❌ Individual rather than team tactics
+  - ✅ Develop and follow team strategy
+- ❌ Lack of support in defense
+  - ✅ Move as a unit in defensive situations
+- ❌ Silent during point construction
+  - ✅ Maintain constant communication
+</details>
 
-#### Racket Position - ["Racket Positioning"](https://youtu.be/xWobKK1Ex38?t=128) (2:08 - 3:00)
-- Keep racket low in defensive stance
-- Use simple, compact movements
-- Three-position technique:
-  1. Start in defensive position
-  2. Preparation phase
-  3. Push/block the ball
+### Session 10: Transition Game
 
-#### Lob Shots - ["How to Play the Lob"](https://youtu.be/np9eHSuYcDE?t=14) (0:14 - 1:30)
-- Start with very low preparation
-- Hit the ball completely flat
-- Avoid topspin or slice
-- Focus on height and depth
+<details>
+#### Transition Strategy
+- 📺 [Padel tactic that INSTANTLY improves your MATCHES!](https://youtu.be/GmBD24JRzKw?t=65) (1:05-2:30)
+  - Strategic approach to transitions
+  - When to stay back vs move forward
+  - Building confidence through control
+  - Energy management techniques
 
-#### Types of Lobs - ["Different Types of Lobs"](https://youtu.be/ymqUKF7hDdo?t=52) (0:52 - 2:00)
-- Defensive High Lob:
-  - Maximum height to push opponents back
-  - Gives more time to recover position
-  - Harder for opponents to attack
-- Fast Lob:
-  - Lower trajectory
-  - Used when opponents are close to net
-  - More effective in indoor courts
+#### Net Position Fundamentals
+- 📺 [What is a GOOD Net Position??](https://youtu.be/cHDneNYKgm0?t=25) (0:25-3:00)
+  - Understanding optimal net positions
+  - Forward and backward movement patterns
+  - Defensive to attacking transitions
+  - Position recovery techniques
 
-## Level 2: Building Skills (Intermediate)
+#### Partner Movement
+- 📺 [Net Position to WIN Points!](https://youtu.be/HnLbsGp7Zag?t=49) (0:49-4:00)
+  - Partner coordination during transitions
+  - Star position concept
+  - Court coverage patterns
+  - Advanced movement techniques
 
-### Session 1: Shot Placement & Court Awareness
+#### Quick Tips
+- Watch opponent position before transitioning
+- Use controlled shots during movement
+- Communicate transition plans with partner
+- Keep racket ready during movement
+- Stay balanced throughout transition
+- Have backup plan if transition fails
+- Move as a team with partner
 
-#### Court Zones - ["Understanding Court Zones"](https://youtu.be/l61N158fow8?t=45) (0:45 - 2:15)
-- Net position (0-2m from net)
-- Mid-court attacking position (2-4m from net)
-- Transition zone advantages
+#### Common Mistakes
+- ❌ Moving forward at wrong time
+  - ✅ Wait for right opportunity
+- ❌ Poor shot selection during transition
+  - ✅ Use high percentage shots
+- ❌ Uncoordinated partner movement
+  - ✅ Move together as a team
+- ❌ Over-aggressive during transition
+  - ✅ Build pressure gradually
+- ❌ Neglecting recovery options
+  - ✅ Plan for defensive reset
+</details>
 
-#### Defensive Zones - ["Defensive Positioning Guide"](https://youtu.be/xWobKK1Ex38?t=180) (3:00 - 4:30)
-- Back court positioning (1-2m from back wall)
-- Recovery positions after defensive shots
-- Side wall defensive spacing
+## Advanced Techniques
 
-#### Shot Selection - ["Shot Selection Strategy"](https://youtu.be/cLJVxtMlQRA?t=25) (0:25 - 2:00)
-- When to use power vs placement
-- Creating angles with the walls
-- Exploiting opponent weaknesses
-
-#### Defensive Options - ["Defensive Shot Choices"](https://youtu.be/xWobKK1Ex38?t=240) (4:00 - 5:30)
-- High percentage shots
-- Using height to buy time
-- Safe targets when under pressure
-
-### Session 2: Wall Play Fundamentals
-
-#### Back Wall Techniques - ["Back Wall Defense"](https://youtu.be/4tyqxobE0S0?t=15) (0:15 - 2:00)
-- Anticipating ball trajectory
-- Proper distance from wall
-- Body positioning for rebounds
-
-#### Shot Execution - ["Back Wall Returns"](https://youtu.be/QIipTb8EYPY?t=30) (0:30 - 2:15)
-- Timing your shot
-- Using wall height effectively
-- Control vs. counter-attack options
-
-#### Side Wall Techniques - ["Side Wall Defense"](https://youtu.be/QIipTb8EYPY?t=180) (3:00 - 4:30)
-- Recovery positioning
-- Reading opponent intentions
-- Safe return options
-
-### Session 3: Doubles Strategy
-
-#### Partner Communication - ["Doubles Communication"](https://youtu.be/jdWb7zf6iWk?t=180) (3:00 - 4:30)
-- Verbal calls ("mine", "yours", "switch")
-- Hand signals for serves
-- Movement intentions
-
-#### Strategic Communication - ["Team Tactics"](https://youtu.be/l61N158fow8?t=150) (2:30 - 4:00)
-- Discussing game plans
-- Adjusting tactics mid-game
-- Providing feedback
-
-#### Court Positioning
-- Base Position:
-  - Side by side behind service line
-  - Equal court coverage
-  - Ready position for reactions
-- Attacking Formation:
-  - Net domination strategy
-  - 2-3 meters from net
-  - Covering angles effectively
-- Defensive Setup:
-  - Back court positioning
-  - Wall play coordination
-  - Recovery patterns
-
-### Session 4: Transition Game
-
-#### Reading Opportunities
-- Video: ["Transition Fundamentals"](https://youtu.be/Rky78L_0E9A?t=30) (0:30 - 2:00)
-  - Recognizing transition moments
-  - Partner coordination in transition
-  - Timing your move forward
-
-#### Execution Techniques
-- Video: ["Transition Shots"](https://youtu.be/Rky78L_0E9A?t=180) (3:00 - 4:30)
-  - Shot selection during transition
-  - Building pressure gradually
-  - Maintaining control
-
-#### Movement Patterns
-- Back to front court movement
-- Lateral transitions
-- Recovery positioning
-
-## Level 3: Advanced Techniques
-
-### Session 1: The Bandeja
+### Session 11: The Bandeja
 
 #### Understanding the Shot
 - Video: ["Bandeja Basics"](https://youtu.be/yHAJ5XjFUNg?t=4) (0:04 - 1:30)
@@ -388,7 +494,7 @@
     - More advanced timing required
     - Greater spin potential
 
-### Session 2: Víbora
+### Session 12: Víbora
 
 #### Bandeja vs Víbora Comparison
 - Video: ["Difference between Bandeja vs Vibora"](https://youtu.be/j1yVDqYhOAI?t=3) (0:03 - 1:30)
@@ -406,7 +512,7 @@
   - Forward motion through contact
   - Active footwork positioning
 
-### Session 3: Kick Smash (Rulo)
+### Session 13: Kick Smash (Rulo)
 
 #### Flat vs Kick Smash - ["Improve Your Padel Smash"](https://youtu.be/MGaqcQS1NRE?t=45) (0:45 - 2:00)
 - Preparation: Higher racket position for Rulo
@@ -420,7 +526,7 @@
 - Loose wrist for spin
 - Forward weight transfer
 
-### Session 4: Chiquita
+### Session 14: Chiquita
 
 #### Shot Fundamentals - ["What is the Chiquita?"](https://youtu.be/zoqNcDZg568?t=15) (0:15 - 1:30)
 - Low offensive counter shot
@@ -440,7 +546,7 @@
 - Pressure at the net
 - Defensive reset option
 
-### Session 5: Drop Shot & Spin Shots
+### Session 15: Drop Shot & Spin Shots
 
 #### Drop Shot Technique - ["DEJADA de REVÉS"](https://youtu.be/-NhKS9wQ-5c?t=30) (0:30 - 2:00)
 - Disguised preparation
@@ -460,7 +566,7 @@
 - Cut under the ball
 - Speed control variations
 
-### Session 6: Advanced Glass Play
+### Session 16: Advanced Glass Play
 
 #### Back Glass Techniques - ["BAJADA de PARED"](https://youtu.be/QIipTb8EYPY?t=30) (0:30 - 2:00)
 - Reading ball trajectory
@@ -480,7 +586,7 @@
 - Creating unexpected plays
 - Pressure building
 
-### Session 7: Tactical Spin Shots
+### Session 17: Tactical Spin Shots
 
 #### Topspin Applications - ["Advanced Spin Control"](https://youtu.be/MGaqcQS1NRE?t=180) (3:00 - 4:30)
 - Creating aggressive angles
@@ -500,9 +606,9 @@
 - Adapting to conditions
 - Building point pressure
 
-## Level 4: Professional Development
+## Professional Development
 
-### Session 1: Tactical Mastery
+### Session 18: Tactical Mastery
 
 #### Net Dominance - ["Net Position to WIN Points!"](https://youtu.be/HnLbsGp7Zag) (0:00 - 2:00)
 - Statistical advantage: 80% of points won at net position
@@ -521,7 +627,7 @@
   - Reading opponent patterns
   - Tactical combinations
 
-### Session 2: Advanced Wall Techniques
+### Session 19: Advanced Wall Techniques
 
 #### Back Wall Defense - ["10 Killer DEFENSIVE Padel Tips"](https://youtu.be/xWobKK1Ex38) (0:00 - 2:30)
 - Defensive positioning: halfway between white line and back glass
@@ -538,7 +644,7 @@
   - Tactical wall usage
   - Recovery positioning
 
-### Session 3: Mental Game
+### Session 20: Mental Game
 
 #### Focus Management - ["How To Calm Your Nerves Like The Pros"](https://youtu.be/xYTurhF1JM0) (0:00 - 2:00)
 - Pre-point routines and rituals
@@ -554,7 +660,7 @@
 - Between points routine
 - Post-match analysis
 
-### Session 4: Tournament Preparation
+### Session 21: Tournament Preparation
 
 #### Physical Readiness - ["Quick Warm Up Routine For Your Next Padel Match"](https://youtu.be/YzKVK4DySR0) (0:00 - 2:30)
 - Pre-match warm-up protocol:
@@ -601,3 +707,10 @@
   - Performance evaluation
   - Tactical review
   - Improvement planning 
+
+
+## Contributing
+Found a great video or have suggestions? Please contribute and help other padel learners.
+
+## License
+This course content is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
