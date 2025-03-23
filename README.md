@@ -7,6 +7,7 @@ Welcome to the comprehensive padel course designed to take you from a complete b
 ### Session 1: Introduction to Padel & Essential Equipment
 
 <details>
+
 #### History and Origins
 - 📺 [What is Padel? USPTA](https://youtu.be/rSIvS-Skg28) (0:00-0:59)
   - Invented in 1969 in Mexico
@@ -64,10 +65,12 @@ Welcome to the comprehensive padel course designed to take you from a complete b
   - ✅ Start with beginner-friendly rackets
 - ❌ Neglecting safety equipment
   - ✅ Always use wrist strap and proper shoes
+
 </details>
 
 ### Session 2: Grip and Stance
 <details>
+
 #### Basic Grip
 - 📺 [Padel Grip - How to hold the racket](https://youtu.be/B_tRre1W5e4?t=4) (0:04-1:34)
   - Continental grip fundamentals
@@ -103,10 +106,12 @@ Welcome to the comprehensive padel course designed to take you from a complete b
   - ✅ Keep safe distance for movement
 - ❌ Poor ready position
   - ✅ Stay balanced and prepared
+
 </details>
 
 ### Session 3: Movement Fundamentals
 <details>
+
 #### Footwork Fundamentals
 - 📺 [How to MOVE YOUR FEET for padel!](https://youtu.be/hpdGd2KdPrk?t=35) (0:35-1:48)
   - Split step timing and execution
@@ -142,11 +147,13 @@ Welcome to the comprehensive padel course designed to take you from a complete b
   - ✅ Use small, controlled steps
 - ❌ Not recovering to ready position
   - ✅ Return to ready position after shots
+
 </details>
 
 ### Session 4: Groundstrokes
 
 <details>
+
 #### Forehand Technique
 - 📺 [The Padel Forehand](https://youtu.be/YawHc7Cv8us?t=13) (0:13-2:00)
   - Early preparation with shoulder turn
@@ -184,11 +191,13 @@ Welcome to the comprehensive padel course designed to take you from a complete b
   - ✅ Maintain stable base throughout
 - ❌ Wrong contact point
   - ✅ Hit ball in front of body
+
 </details>
 
 ### Session 5: Serve & Return
 
 <details>
+
 #### Serve Mechanics
 - 📺 [Perfect Your Padel Serve](https://youtu.be/YSCbbCYfc9Y?t=16) (0:16-2:00)
   - Side-on stance
@@ -233,11 +242,13 @@ Welcome to the comprehensive padel course designed to take you from a complete b
   - ✅ Stay behind service line, ready to move
 - ❌ Going for winners on return
   - ✅ Prioritize getting return in play
+
 </details>
 
 ### Session 6: Net Play
 
 <details>
+
 #### Volley Fundamentals
 - 📺 [Padel Volleys](https://youtu.be/wCAqvaqrnZ4?t=4) (0:04-2:10)
   - Ready position and grip
@@ -277,11 +288,13 @@ Welcome to the comprehensive padel course designed to take you from a complete b
   - ✅ Early racket preparation
 - ❌ Standing too close to net
   - ✅ Allow space for reaction
+
 </details>
 
 ### Session 7: Defensive Shots
 
 <details>
+
 #### Lob Technique
 - 📺 [The lob: six top tips from Mauri Andrini](https://youtu.be/XZ6rTPb3yuY?t=31) (0:31-2:45)
   - Proper grip and stance
@@ -316,6 +329,7 @@ Welcome to the comprehensive padel course designed to take you from a complete b
   - ✅ Stay patient and controlled
 - ❌ Ignoring wall options
   - ✅ Include walls in defensive play
+
 </details>
 
 ## Building Coordination
@@ -323,6 +337,7 @@ Welcome to the comprehensive padel course designed to take you from a complete b
 ### Session 8: Wall Play Fundamentals
 
 <details>
+
 #### Back Wall Techniques
 - 📺 [Back Wall Defense](https://youtu.be/4tyqxobE0S0?t=15) (0:15-2:00)
   - Anticipating ball trajectory
@@ -365,11 +380,13 @@ Welcome to the comprehensive padel course designed to take you from a complete b
   - ✅ Call shots and coordinate movement
 - ❌ Over-hitting wall returns
   - ✅ Focus on control and placement
+
 </details>
 
 ### Session 9: Doubles Strategy Essentials
 
 <details>
+
 #### Partner Communication
 - 📺 [HELP Your Partner - Padel Tactics!](https://youtu.be/yrIlDgfHqb4?t=9) (0:09-2:25)
   - Verbal calls ("mine", "yours", "switch")
@@ -405,11 +422,13 @@ Welcome to the comprehensive padel course designed to take you from a complete b
   - ✅ Move as a unit in defensive situations
 - ❌ Silent during point construction
   - ✅ Maintain constant communication
+
 </details>
 
 ### Session 10: Transition Game
 
 <details>
+
 #### Transition Strategy
 - 📺 [Padel tactic that INSTANTLY improves your MATCHES!](https://youtu.be/GmBD24JRzKw?t=65) (1:05-2:30)
   - Strategic approach to transitions
@@ -451,40 +470,43 @@ Welcome to the comprehensive padel course designed to take you from a complete b
   - ✅ Build pressure gradually
 - ❌ Neglecting recovery options
   - ✅ Plan for defensive reset
+
 </details>
 
 ## Advanced Techniques
 
 ### Session 11: The Bandeja
 
+<details>
+
 #### Understanding the Shot
-- Video: ["Bandeja Basics"](https://youtu.be/yHAJ5XjFUNg?t=4) (0:04 - 1:30)
+- 📺 ["Bandeja Basics"](https://youtu.be/yHAJ5XjFUNg?t=4) (0:04 - 1:30)
   - Defensive overhead shot
   - Named after Spanish word for "tray"
   - Purpose: maintain net position while defending lobs
 
 #### When to Use It
-- Video: ["Shot Selection"](https://youtu.be/St_PRyzhZXY?t=30) (0:30 - 2:00)
+- 📺 ["Shot Selection"](https://youtu.be/St_PRyzhZXY?t=30) (0:30 - 2:00)
   - Deep lobs that can't be attacked
   - When maintaining net position is priority
   - Alternative to aggressive smash
 
 #### Starting Position
-- Video: ["Proper Setup"](https://youtu.be/yHAJ5XjFUNg?t=42) (0:42 - 1:30)
+- 📺 ["Proper Setup"](https://youtu.be/yHAJ5XjFUNg?t=42) (0:42 - 1:30)
   - Turn shoulders and hips sideways
   - Racket pointing upward
   - Left arm up for balance
   - Side-stepping backward movement
 
 #### Contact Point
-- Video: ["Contact Technique"](https://youtu.be/ogYbQtN6lNk?t=84) (1:24 - 2:15)
+- 📺 ["Contact Technique"](https://youtu.be/ogYbQtN6lNk?t=84) (1:24 - 2:15)
   - Eye/forehead level contact
   - Slightly open racket face
   - Contact to the side of body
   - Control over power
 
 #### Two Main Techniques
-- Video: ["Chest and Arm Techniques"](https://youtu.be/ogYbQtN6lNk?t=92) (1:32 - 2:45)
+- 📺 ["Chest and Arm Techniques"](https://youtu.be/ogYbQtN6lNk?t=92) (1:32 - 2:45)
   - Chest Technique:
     - Like high forehand volley
     - More stable and controlled
@@ -494,11 +516,15 @@ Welcome to the comprehensive padel course designed to take you from a complete b
     - More advanced timing required
     - Greater spin potential
 
+</details>
+
 ### Session 12: Víbora
 
+<details>
+
 #### Bandeja vs Víbora Comparison
-- Video: ["Difference between Bandeja vs Vibora"](https://youtu.be/j1yVDqYhOAI?t=3) (0:03 - 1:30)
-- Video: ["3 KEY differences"](https://youtu.be/yFVvTTY2ubs?t=4) (0:04 - 2:00)
+- 📺 ["Difference between Bandeja vs Vibora"](https://youtu.be/j1yVDqYhOAI?t=3) (0:03 - 1:30)
+- 📺 ["3 KEY differences"](https://youtu.be/yFVvTTY2ubs?t=4) (0:04 - 2:00)
   - Preparation: Behind head (Víbora) vs high (Bandeja)
   - Spin: Side spin vs backspin
   - Power: 70-80% vs 40-50%
@@ -506,13 +532,17 @@ Welcome to the comprehensive padel course designed to take you from a complete b
   - Shot type: Attacking vs defensive
 
 #### Technical Execution
-- Video: ["Beginners Guide To Hit A Vibora"](https://youtu.be/_zgycqEGJ-s?t=19) (0:19 - 2:00)
+- 📺 ["Beginners Guide To Hit A Vibora"](https://youtu.be/_zgycqEGJ-s?t=19) (0:19 - 2:00)
   - Eye-level contact point
   - High elbow position
   - Forward motion through contact
   - Active footwork positioning
 
+</details>
+
 ### Session 13: Kick Smash (Rulo)
+
+<details>
 
 #### Flat vs Kick Smash - ["Improve Your Padel Smash"](https://youtu.be/MGaqcQS1NRE?t=45) (0:45 - 2:00)
 - Preparation: Higher racket position for Rulo
@@ -526,7 +556,11 @@ Welcome to the comprehensive padel course designed to take you from a complete b
 - Loose wrist for spin
 - Forward weight transfer
 
+</details>
+
 ### Session 14: Chiquita
+
+<details>
 
 #### Shot Fundamentals - ["What is the Chiquita?"](https://youtu.be/zoqNcDZg568?t=15) (0:15 - 1:30)
 - Low offensive counter shot
@@ -546,7 +580,11 @@ Welcome to the comprehensive padel course designed to take you from a complete b
 - Pressure at the net
 - Defensive reset option
 
+</details>
+
 ### Session 15: Drop Shot & Spin Shots
+
+<details>
 
 #### Drop Shot Technique - ["DEJADA de REVÉS"](https://youtu.be/-NhKS9wQ-5c?t=30) (0:30 - 2:00)
 - Disguised preparation
@@ -566,7 +604,11 @@ Welcome to the comprehensive padel course designed to take you from a complete b
 - Cut under the ball
 - Speed control variations
 
+</details>
+
 ### Session 16: Advanced Glass Play
+
+<details>
 
 #### Back Glass Techniques - ["BAJADA de PARED"](https://youtu.be/QIipTb8EYPY?t=30) (0:30 - 2:00)
 - Reading ball trajectory
@@ -586,7 +628,11 @@ Welcome to the comprehensive padel course designed to take you from a complete b
 - Creating unexpected plays
 - Pressure building
 
+</details>
+
 ### Session 17: Tactical Spin Shots
+
+<details>
 
 #### Topspin Applications - ["Advanced Spin Control"](https://youtu.be/MGaqcQS1NRE?t=180) (3:00 - 4:30)
 - Creating aggressive angles
@@ -608,7 +654,11 @@ Welcome to the comprehensive padel course designed to take you from a complete b
 
 ## Professional Development
 
+</details>
+
 ### Session 18: Tactical Mastery
+
+<details>
 
 #### Net Dominance - ["Net Position to WIN Points!"](https://youtu.be/HnLbsGp7Zag) (0:00 - 2:00)
 - Statistical advantage: 80% of points won at net position
@@ -621,13 +671,17 @@ Welcome to the comprehensive padel course designed to take you from a complete b
 - Court positioning for maximum coverage
 
 #### Shot Selection
-- Video: ["10 Killer Padel Tips To CRUSH Opponents!"](https://youtu.be/x_je7cePWq0) (0:00 - 3:00)
-- Video: ["3 Easy Padel Tactics To Outsmart Your Opponent"](https://youtu.be/kGbr0P3KwoU) (0:00 - 2:30)
+- 📺 ["10 Killer Padel Tips To CRUSH Opponents!"](https://youtu.be/x_je7cePWq0) (0:00 - 3:00)
+- 📺 ["3 Easy Padel Tactics To Outsmart Your Opponent"](https://youtu.be/kGbr0P3KwoU) (0:00 - 2:30)
   - Position-based shot selection
   - Reading opponent patterns
   - Tactical combinations
 
+</details>
+
 ### Session 19: Advanced Wall Techniques
+
+<details>
 
 #### Back Wall Defense - ["10 Killer DEFENSIVE Padel Tips"](https://youtu.be/xWobKK1Ex38) (0:00 - 2:30)
 - Defensive positioning: halfway between white line and back glass
@@ -638,13 +692,17 @@ Welcome to the comprehensive padel course designed to take you from a complete b
 - Reading and anticipating rebounds
 
 #### Advanced Wall Combinations
-- Video: ["USE THESE 3 TIPS TO USE THE BACK WALL LIKE A PRO"](https://youtu.be/Nf6vJDzMGLk) (0:00 - 2:30)
-- Video: ["Join Tasty Padel Training 1: Defense with walls"](https://youtu.be/ZJVxA0HVPmk) (0:00 - 2:30)
+- 📺 ["USE THESE 3 TIPS TO USE THE BACK WALL LIKE A PRO"](https://youtu.be/Nf6vJDzMGLk) (0:00 - 2:30)
+- 📺 ["Join Tasty Padel Training 1: Defense with walls"](https://youtu.be/ZJVxA0HVPmk) (0:00 - 2:30)
   - Complex wall combinations
   - Tactical wall usage
   - Recovery positioning
 
+</details>
+
 ### Session 20: Mental Game
+
+<details>
 
 #### Focus Management - ["How To Calm Your Nerves Like The Pros"](https://youtu.be/xYTurhF1JM0) (0:00 - 2:00)
 - Pre-point routines and rituals
@@ -660,7 +718,11 @@ Welcome to the comprehensive padel course designed to take you from a complete b
 - Between points routine
 - Post-match analysis
 
+</details>
+
 ### Session 21: Tournament Preparation
+
+<details>
 
 #### Physical Readiness - ["Quick Warm Up Routine For Your Next Padel Match"](https://youtu.be/YzKVK4DySR0) (0:00 - 2:30)
 - Pre-match warm-up protocol:
@@ -673,8 +735,8 @@ Welcome to the comprehensive padel course designed to take you from a complete b
   - Active recovery techniques
 
 #### Match Strategy
-- Video: ["How To Win Padel Tournaments!"](https://youtu.be/GIBzMkt-tw4) (0:00 - 2:30)
-- Video: ["Improve Your Padel In 24 HOURS!"](https://youtu.be/nn0BZ2zB1nw) (0:00 - 2:30)
+- 📺 ["How To Win Padel Tournaments!"](https://youtu.be/GIBzMkt-tw4) (0:00 - 2:30)
+- 📺 ["Improve Your Padel In 24 HOURS!"](https://youtu.be/nn0BZ2zB1nw) (0:00 - 2:30)
   - Game plan development:
     - Pre-match opponent analysis
     - Identifying patterns and weaknesses
@@ -708,6 +770,7 @@ Welcome to the comprehensive padel course designed to take you from a complete b
   - Tactical review
   - Improvement planning 
 
+</details>
 
 ## Contributing
 Found a great video or have suggestions? Please contribute and help other padel learners.
