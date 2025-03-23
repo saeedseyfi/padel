@@ -1,0 +1,39 @@
+{
+    "title": "Padel Grip - How to hold the racket",
+    "url": "https://youtu.be/B_tRre1W5e4",
+    "duration": 99,
+    "language": "en",
+    "difficulty_level": 1,
+    "topics": [
+        "grip",
+        "continental-grip",
+        "grip-size",
+        "safety-loop",
+        "beginner-essentials"
+    ],
+    "prerequisites": [],
+    "quality_score": 9,
+    "validated": true,
+    "sections_used": [
+        {
+            "file_path": "levels/level-1/sessions/grip-and-stance.md",
+            "timestamp_start": 4,
+            "timestamp_end": 30,
+            "topic": "basic-grip-technique"
+        },
+        {
+            "file_path": "levels/level-1/sessions/grip-and-stance.md",
+            "timestamp_start": 30,
+            "timestamp_end": 44,
+            "topic": "safety-loop"
+        },
+        {
+            "file_path": "levels/level-1/sessions/grip-and-stance.md",
+            "timestamp_start": 44,
+            "timestamp_end": 99,
+            "topic": "grip-size"
+        }
+    ],
+    "transcript_validated": true,
+    "notes": "Clear, concise explanation of the continental grip basics. Good demonstration of grip size adjustment and safety loop usage. Perfect for beginners."
+} 

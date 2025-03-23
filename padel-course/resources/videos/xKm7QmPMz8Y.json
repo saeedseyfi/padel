@@ -1,0 +1,36 @@
+{
+    "title": "Master the Padel Volley: Basic Net Play Techniques",
+    "url": "https://youtu.be/xKm7QmPMz8Y",
+    "duration": 245,
+    "language": "English",
+    "difficulty_level": 1,
+    "topics": [
+        "volley",
+        "net-play",
+        "basic-technique",
+        "beginner-essentials"
+    ],
+    "prerequisites": [
+        "Basic grip",
+        "Proper stance",
+        "Court awareness"
+    ],
+    "quality_score": 9,
+    "validation_status": true,
+    "sections_used": [
+        {
+            "topic": "Volley fundamentals",
+            "start_time": 15,
+            "end_time": 90,
+            "file_path": "levels/level-1/sessions/net-play.md"
+        },
+        {
+            "topic": "Basic smash technique",
+            "start_time": 120,
+            "end_time": 180,
+            "file_path": "levels/level-1/sessions/net-play.md"
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Clear explanation of basic volley and smash techniques with focus on proper preparation and contact point. Perfect for beginners learning net play fundamentals."
+} 

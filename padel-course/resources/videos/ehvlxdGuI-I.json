@@ -1,0 +1,39 @@
+{
+    "title": "You NEED This To Start Padel: Padel Rackets, Padel Shoes, Balls, Grips",
+    "url": "https://youtu.be/ehvlxdGuI-I",
+    "duration": 364,
+    "language": "English",
+    "difficulty_level": 1,
+    "topics": [
+        "equipment",
+        "rackets",
+        "balls",
+        "grips",
+        "beginner-essentials"
+    ],
+    "prerequisites": [],
+    "quality_score": 9,
+    "validation_status": true,
+    "sections_used": [
+        {
+            "topic": "Racket selection",
+            "start_time": 22,
+            "end_time": 150,
+            "file_path": "levels/level-1/sessions/introduction.md"
+        },
+        {
+            "topic": "Balls and accessories",
+            "start_time": 274,
+            "end_time": 330,
+            "file_path": "levels/level-1/sessions/introduction.md"
+        },
+        {
+            "topic": "Grip and protection",
+            "start_time": 189,
+            "end_time": 270,
+            "file_path": "levels/level-1/sessions/introduction.md"
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Comprehensive guide to essential padel equipment, covering racket selection, balls, grips, and protective gear. Perfect for beginners setting up their kit."
+} 

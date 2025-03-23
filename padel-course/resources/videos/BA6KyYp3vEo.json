@@ -1,0 +1,26 @@
+{
+    "title": "Why you NEED Padel Shoes!!",
+    "url": "https://youtu.be/BA6KyYp3vEo",
+    "duration": 184,
+    "language": "English",
+    "difficulty_level": 1,
+    "topics": [
+        "equipment",
+        "footwear",
+        "safety",
+        "beginner-essentials"
+    ],
+    "prerequisites": [],
+    "quality_score": 9,
+    "validation_status": true,
+    "sections_used": [
+        {
+            "topic": "Footwear requirements",
+            "start_time": 15,
+            "end_time": 180,
+            "file_path": "levels/level-1/sessions/introduction.md"
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Detailed guide to selecting proper padel footwear, focusing on flexibility, width, and grip patterns. Essential for injury prevention and optimal performance."
+} 

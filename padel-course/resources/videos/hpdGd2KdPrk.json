@@ -1,0 +1,46 @@
+{
+    "title": "How to MOVE YOUR FEET for padel! Basic to Advanced Padel Tips!",
+    "url": "https://youtu.be/hpdGd2KdPrk",
+    "duration": 444,
+    "language": "English",
+    "difficulty_level": 1,
+    "topics": [
+        "footwork",
+        "split-step",
+        "movement-patterns",
+        "court-positioning",
+        "tennis-vs-padel",
+        "beginner-essentials"
+    ],
+    "prerequisites": [],
+    "quality_score": 9,
+    "validation_status": true,
+    "sections_used": [
+        {
+            "topic": "Split step basics",
+            "start_time": 35,
+            "end_time": 108,
+            "file_path": "levels/level-1/sessions/movement-fundamentals.md"
+        },
+        {
+            "topic": "Footwork progression",
+            "start_time": 108,
+            "end_time": 188,
+            "file_path": "levels/level-1/sessions/movement-fundamentals.md"
+        },
+        {
+            "topic": "Tennis vs Padel footwork differences",
+            "start_time": 226,
+            "end_time": 290,
+            "file_path": "levels/level-1/sessions/movement-fundamentals.md"
+        },
+        {
+            "topic": "Multi-directional movement",
+            "start_time": 290,
+            "end_time": 361,
+            "file_path": "levels/level-1/sessions/movement-fundamentals.md"
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Excellent comprehensive guide to padel footwork fundamentals. Covers split step timing, progression from basic to advanced movement patterns, and key differences from tennis footwork. Clear explanations of multi-directional movement requirements and practical demonstrations."
+} 

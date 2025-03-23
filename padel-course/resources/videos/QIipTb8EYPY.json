@@ -1,0 +1,37 @@
+{
+    "title": "Complete Guide to Wall Play in Padel",
+    "url": "https://youtu.be/QIipTb8EYPY",
+    "duration": 360,
+    "language": "English",
+    "difficulty_level": 2,
+    "topics": [
+        "wall-play",
+        "back-wall",
+        "side-wall",
+        "shot-execution",
+        "intermediate-skills"
+    ],
+    "prerequisites": [
+        "Basic wall play",
+        "Court positioning",
+        "Level 1 completion"
+    ],
+    "quality_score": 9,
+    "validation_status": true,
+    "sections_used": [
+        {
+            "topic": "Shot execution",
+            "start_time": 30,
+            "end_time": 135,
+            "file_path": "levels/level-2/sessions/wall-play.md"
+        },
+        {
+            "topic": "Side wall techniques",
+            "start_time": 180,
+            "end_time": 270,
+            "file_path": "levels/level-2/sessions/wall-play.md"
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Comprehensive coverage of wall play techniques, including both back wall returns and side wall defense. Excellent progression from basic concepts to advanced applications with clear examples."
+} 

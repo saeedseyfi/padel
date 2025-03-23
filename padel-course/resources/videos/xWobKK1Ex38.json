@@ -1,0 +1,37 @@
+{
+    "title": "Complete Guide to Defensive Positioning & Shot Selection",
+    "url": "https://youtu.be/xWobKK1Ex38",
+    "duration": 420,
+    "language": "English",
+    "difficulty_level": 2,
+    "topics": [
+        "defensive-positioning",
+        "shot-selection",
+        "court-spacing",
+        "defensive-shots",
+        "intermediate-techniques"
+    ],
+    "prerequisites": [
+        "Basic defensive shots",
+        "Court movement basics",
+        "Level 1 completion"
+    ],
+    "quality_score": 9,
+    "validation_status": true,
+    "sections_used": [
+        {
+            "topic": "Defensive zones",
+            "start_time": 180,
+            "end_time": 270,
+            "file_path": "levels/level-2/sessions/shot-placement.md"
+        },
+        {
+            "topic": "Defensive options",
+            "start_time": 240,
+            "end_time": 330,
+            "file_path": "levels/level-2/sessions/shot-placement.md"
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Comprehensive coverage of defensive positioning and shot selection, with practical examples and common scenarios."
+} 

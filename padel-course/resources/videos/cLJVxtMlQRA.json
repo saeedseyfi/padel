@@ -1,0 +1,31 @@
+{
+    "title": "Shot Selection Strategy in Padel",
+    "url": "https://youtu.be/cLJVxtMlQRA",
+    "duration": 240,
+    "language": "English",
+    "difficulty_level": 2,
+    "topics": [
+        "shot-selection",
+        "power-vs-placement",
+        "wall-angles",
+        "tactical-play",
+        "intermediate-techniques"
+    ],
+    "prerequisites": [
+        "Basic shot execution",
+        "Wall play basics",
+        "Level 1 completion"
+    ],
+    "quality_score": 9,
+    "validation_status": true,
+    "sections_used": [
+        {
+            "topic": "Shot selection",
+            "start_time": 25,
+            "end_time": 120,
+            "file_path": "levels/level-2/sessions/shot-placement.md"
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Excellent breakdown of shot selection principles, focusing on power vs placement decisions and using walls effectively."
+} 

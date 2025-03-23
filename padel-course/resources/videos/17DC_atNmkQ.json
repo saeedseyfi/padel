@@ -1,0 +1,19 @@
+{
+    "title": "Padel Tactics: Basic Court Position",
+    "url": "https://youtu.be/17DC_atNmkQ",
+    "duration": 180,
+    "language": "English",
+    "difficulty_level": 1,
+    "topics": ["basic-positioning", "court-awareness", "beginner-techniques", "stance"],
+    "prerequisites": ["Basic padel rules", "Equipment familiarity"],
+    "quality_score": 9,
+    "validation_status": true,
+    "sections_used": [{
+        "topic": "Court Position",
+        "start_time": 46,
+        "end_time": 150,
+        "file_path": "levels/level-1/sessions/grip-and-stance.md"
+    }],
+    "transcript_validation": true,
+    "notes": "Clear explanation of basic court positioning fundamentals, including back court positioning, net position fundamentals, and proper distance from walls. Perfect for beginners learning proper stance and court awareness."
+} 

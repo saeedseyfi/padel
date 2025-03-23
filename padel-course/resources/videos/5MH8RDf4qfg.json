@@ -1,0 +1,29 @@
+{
+    "title": "Struggle with your Backhand? Padel Technique",
+    "url": "https://youtu.be/5MH8RDf4qfg",
+    "duration": 119,
+    "language": "English",
+    "difficulty_level": 1,
+    "topics": [
+        "backhand",
+        "groundstrokes",
+        "basic-technique",
+        "beginner-essentials"
+    ],
+    "prerequisites": [
+        "Proper grip",
+        "Basic stance"
+    ],
+    "quality_score": 9,
+    "validation_status": true,
+    "sections_used": [
+        {
+            "topic": "Backhand technique",
+            "start_time": 34,
+            "end_time": 120,
+            "file_path": "levels/level-1/sessions/groundstrokes.md"
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Comprehensive guide to the padel backhand, with clear step-by-step breakdown of the technique. Particularly helpful for players transitioning from tennis. Excellent slow-motion demonstrations and technical explanations."
+} 

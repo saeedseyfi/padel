@@ -1,0 +1,29 @@
+{
+    "title": "The Padel Forehand",
+    "url": "https://youtu.be/YawHc7Cv8us",
+    "duration": 90,
+    "language": "English",
+    "difficulty_level": 1,
+    "topics": [
+        "forehand",
+        "groundstrokes",
+        "basic-technique",
+        "beginner-essentials"
+    ],
+    "prerequisites": [
+        "Proper grip",
+        "Basic stance"
+    ],
+    "quality_score": 9,
+    "validation_status": true,
+    "sections_used": [
+        {
+            "topic": "Basic forehand technique",
+            "start_time": 13,
+            "end_time": 120,
+            "file_path": "levels/level-1/sessions/groundstrokes.md"
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Clear and concise explanation of the basic padel forehand technique. Excellent demonstration of proper form and common mistakes to avoid. Perfect for beginners learning the fundamental groundstroke."
+} 
