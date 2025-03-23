@@ -10,23 +10,11 @@
 - High percentage shots under pressure
 
 ## Videos
-### Defensive Zones
-- 📺 [Defensive Positioning Guide](https://youtu.be/xWobKK1Ex38?t=180) (3:00-4:30)
-  - Back court positioning (1-2m from back wall)
-  - Recovery positions after defensive shots
-  - Side wall defensive spacing
-
 ### Shot Selection
 - 📺 [Shot Selection Strategy](https://youtu.be/cLJVxtMlQRA?t=25) (0:25-2:00)
   - When to use power vs placement
   - Creating angles with the walls
   - Exploiting opponent weaknesses
-
-### Defensive Options
-- 📺 [Defensive Shot Choices](https://youtu.be/xWobKK1Ex38?t=240) (4:00-5:30)
-  - High percentage shots
-  - Using height to buy time
-  - Safe targets when under pressure
 
 ## Quick Tips
 - Stay in appropriate zone for situation

@@ -1,0 +1,37 @@
+{
+  "title": "HELP Your Partner - Padel Tactics!",
+  "url": "https://youtu.be/yrIlDgfHqb4",
+  "duration": 240,
+  "language": "English",
+  "difficulty_level": 2,
+  "topics": [
+    "partner-communication",
+    "doubles-strategy",
+    "shot-selection",
+    "team-coordination",
+    "match-communication"
+  ],
+  "prerequisites": [
+    "Basic doubles positioning",
+    "Basic shot selection",
+    "Level 1 completion"
+  ],
+  "quality_score": 9,
+  "validation_status": true,
+  "sections_used": [
+    {
+      "name": "Partner Communication",
+      "topics": [
+        "Verbal calls",
+        "Hand signals",
+        "Movement intentions",
+        "Partner coordination"
+      ],
+      "start_time": 9,
+      "end_time": 145,
+      "file_path": "levels/level-2/sessions/doubles-strategy.md"
+    }
+  ],
+  "transcript_validation": true,
+  "notes": "Essential guide to effective partner communication in padel, focusing on timing and clarity of calls. Covers both defensive and offensive situations, with practical examples of when and what to communicate. Excellent for intermediate players developing their doubles game."
+} 

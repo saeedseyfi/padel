@@ -1,0 +1,37 @@
+{
+  "title": "IMPROVE as a TEAM - Padel Tactics",
+  "url": "https://youtu.be/QPCUK5t7qW8",
+  "duration": 452,
+  "language": "English",
+  "difficulty_level": 2,
+  "topics": [
+    "team-communication",
+    "doubles-strategy",
+    "tactical-planning",
+    "partner-coordination",
+    "match-preparation"
+  ],
+  "prerequisites": [
+    "Basic doubles positioning",
+    "Basic shot selection",
+    "Level 1 completion"
+  ],
+  "quality_score": 9,
+  "validation_status": true,
+  "sections_used": [
+    {
+      "name": "Strategic Communication",
+      "topics": [
+        "Team movement patterns",
+        "Tactical adjustments",
+        "Position synchronization",
+        "Reading game situations"
+      ],
+      "start_time": 207,
+      "end_time": 320,
+      "file_path": "levels/level-2/sessions/doubles-strategy.md"
+    }
+  ],
+  "transcript_validation": true,
+  "notes": "Comprehensive guide to team improvement focusing on communication and tactical planning. Covers pre-match preparation, in-game communication, and partner coordination. Perfect for intermediate players learning to work effectively as a team."
+} 

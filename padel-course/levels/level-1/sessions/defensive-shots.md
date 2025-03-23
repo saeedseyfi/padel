@@ -11,18 +11,20 @@
 
 ## Videos
 ### Lob Technique
-- 📺 [Essential Padel Defense](https://youtu.be/kL9pQx8Wm4Y?t=25) (0:25-1:35)
-  - Grip and stance
-  - Contact point
-  - Height control
-  - Direction and depth
+- 📺 [The lob: six top tips from Mauri Andrini](https://youtu.be/XZ6rTPb3yuY?t=31) (0:31-2:45)
+  - Proper grip and stance
+  - Knee bend for power
+  - Contact point control
+  - Height and trajectory
+  - Timing and placement
 
-### Wall Play Basics
-- 📺 [Essential Padel Defense](https://youtu.be/kL9pQx8Wm4Y?t=140) (2:20-3:30)
-  - Reading ball trajectory
-  - Positioning for wall shots
-  - Using side walls
-  - Back wall basics
+### Defensive Wall Play
+- 📺 [10 Killer DEFENSIVE Padel Tips](https://youtu.be/xWobKK1Ex38?t=32) (0:32-4:10)
+  - Defensive positioning
+  - Footwork fundamentals
+  - Racket preparation
+  - Wall shot technique
+  - Shot selection
 
 ## Quick Tips
 - Keep racket head up for quick reactions

@@ -11,18 +11,25 @@
 
 ## Videos
 ### Volley Fundamentals
-- 📺 [Master the Padel Volley](https://youtu.be/xKm7QmPMz8Y?t=15) (0:15-1:30)
-  - Ready position at net
-  - Racket preparation
-  - Contact point
-  - Follow through
+- 📺 [Padel Volleys](https://youtu.be/wCAqvaqrnZ4?t=4) (0:04-2:10)
+  - Ready position and grip
+  - Racket preparation and footwork
+  - Contact point and blocking technique
+  - Simple and effective execution
+
+### Advanced Volley Tips
+- 📺 [6 VOLLEY TIPS! Start being EFFECTIVE at net](https://youtu.be/mnoPS8odf40?t=23) (0:23-3:40)
+  - Ready position essentials
+  - Strategic volley selection
+  - Continental grip mastery
+  - Movement patterns
 
 ### Basic Smash Technique
-- 📺 [Master the Padel Volley](https://youtu.be/xKm7QmPMz8Y?t=120) (2:00-3:00)
-  - Overhead preparation
-  - Ball tracking
-  - Contact point above head
-  - Controlled power
+- 📺 [Key to a BIG SMASH](https://youtu.be/5l0vMSN2Mek?t=31) (0:31-2:00)
+  - Relaxed arm preparation
+  - Loose wrist for power
+  - Focus on racket speed
+  - Proper timing on contact
 
 ## Quick Tips
 - Keep racket head up at net

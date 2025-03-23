@@ -11,25 +11,18 @@
 
 ## Videos
 ### Partner Communication
-- 📺 [Doubles Communication](https://youtu.be/jdWb7zf6iWk?t=180) (3:00-4:30)
+- 📺 [HELP Your Partner - Padel Tactics!](https://youtu.be/yrIlDgfHqb4?t=9) (0:09-2:25)
   - Verbal calls ("mine", "yours", "switch")
   - Hand signals for serves
   - Movement intentions
   - Partner coordination
 
 ### Strategic Communication
-- 📺 [Moving As A Pair](https://youtu.be/wvRtIkBzbGM?t=0) (0:00-2:30)
+- 📺 [IMPROVE as a TEAM - Padel Tactics](https://youtu.be/QPCUK5t7qW8?t=207) (3:27-5:20)
   - Team movement patterns
   - Tactical adjustments
   - Position synchronization
   - Reading game situations
-
-### Court Positioning
-- 📺 [Doubles Position Guide](https://youtu.be/jdWb7zf6iWk?t=46) (0:46-2:30)
-  - Base position fundamentals
-  - Attacking formation setup
-  - Defensive positioning
-  - Position transitions
 
 ## Quick Tips
 - Call every ball early and clearly

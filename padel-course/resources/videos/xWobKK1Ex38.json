@@ -1,37 +1,38 @@
 {
-    "title": "Complete Guide to Defensive Positioning & Shot Selection",
+    "title": "10 Killer DEFENSIVE Padel Tips",
     "url": "https://youtu.be/xWobKK1Ex38",
-    "duration": 420,
+    "duration": 626,
     "language": "English",
-    "difficulty_level": 2,
+    "difficulty_level": 1,
     "topics": [
         "defensive-positioning",
-        "shot-selection",
-        "court-spacing",
-        "defensive-shots",
-        "intermediate-techniques"
+        "wall-play",
+        "footwork",
+        "shot-technique",
+        "beginner-skills"
     ],
     "prerequisites": [
-        "Basic defensive shots",
-        "Court movement basics",
-        "Level 1 completion"
+        "Basic racket control",
+        "Basic court movement",
+        "Ready position understanding"
     ],
     "quality_score": 9,
     "validation_status": true,
     "sections_used": [
         {
-            "topic": "Defensive zones",
-            "start_time": 180,
-            "end_time": 270,
-            "file_path": "levels/level-2/sessions/shot-placement.md"
-        },
-        {
-            "topic": "Defensive options",
-            "start_time": 240,
-            "end_time": 330,
-            "file_path": "levels/level-2/sessions/shot-placement.md"
+            "name": "Defensive Wall Play",
+            "topics": [
+                "Defensive positioning",
+                "Footwork fundamentals",
+                "Racket preparation",
+                "Wall shot technique",
+                "Shot selection"
+            ],
+            "start_time": 32,
+            "end_time": 250,
+            "file_path": "levels/level-1/sessions/defensive-shots.md"
         }
     ],
     "transcript_validation": true,
-    "notes": "Comprehensive coverage of defensive positioning and shot selection, with practical examples and common scenarios."
+    "notes": "Comprehensive guide to defensive play in padel, focusing on proper positioning, footwork, and wall play techniques. Excellent for beginners learning defensive fundamentals, with clear demonstrations and practical tips for common defensive situations. Emphasizes the importance of proper positioning and simple, effective movements."
 } 
