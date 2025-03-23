@@ -1,6 +1,6 @@
-# Zero to Hero Padel Course
+# Zero to Hero in Padel: A Curated YouTube Learning Path from Beginner to Advanced
 
-Welcome to the comprehensive padel course designed to take you from a complete beginner to an advanced player. This course is structured in four progressive levels, each building upon the previous one to develop your skills systematically.
+Welcome to this curated collection of the best YouTube videos to systematically learn padel from beginner to advanced levels. This learning path features content from top padel instructors and channels to help you develop your skills progressively.
 
 ## Foundations
 
