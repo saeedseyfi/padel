@@ -1,0 +1,37 @@
+{
+    "title": "🚨 DEFEND LIKE A PRO IN PADEL 🚨",
+    "url": "https://youtu.be/q4bTwU26SGg",
+    "duration": 21,
+    "language": "English",
+    "difficulty_level": 1,
+    "topics": [
+        "defensive-play",
+        "court-positioning",
+        "lob-technique",
+        "tactical-play",
+        "recovery-strategy"
+    ],
+    "prerequisites": [
+        "Basic understanding of padel",
+        "Familiarity with lob shots"
+    ],
+    "quality_score": 7,
+    "validation_status": true,
+    "sections_used": [],
+    "sections": [
+        {
+            "section_name": "Defensive Lob Strategy",
+            "start_time": 0,
+            "end_time": 21,
+            "topics_covered": [
+                "Recognizing easy balls for lobs",
+                "Executing defensive lobs",
+                "Transitioning to net position",
+                "Maintaining offensive position after defense",
+                "Recovering court positioning"
+            ]
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Short but effective demonstration of defensive strategy in padel. The coach explains how to identify an easy ball for playing a strategic lob, then quickly recovering to the net position. Though brief, it illustrates an important defensive tactic that can be particularly helpful for beginners learning when to transition from defense to offense."
+}

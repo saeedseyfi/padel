@@ -1,0 +1,80 @@
+{
+    "title": "What is a GOOD Net Position?? Padel Tactics",
+    "url": "https://youtu.be/cHDneNYKgm0",
+    "duration": 229,
+    "language": "English",
+    "difficulty_level": 2,
+    "topics": [
+        "net-position",
+        "transition-game",
+        "movement-patterns",
+        "intermediate-skills"
+    ],
+    "prerequisites": [
+        "Basic net play",
+        "Court positioning",
+        "Level 1 completion"
+    ],
+    "quality_score": 9,
+    "validation_status": true,
+    "sections_used": [
+        {
+            "section_name": "Net Position Mastery",
+            "start_time": 25,
+            "end_time": 180,
+            "file_path": "README.md#session-10-transition-game"
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Comprehensive guide to net positioning and movement patterns, with clear explanations of common errors and proper techniques. The video effectively demonstrates how to transition between defensive and attacking positions while maintaining optimal court coverage.",
+    "sections": [
+        {
+            "title": "Introduction to Net Positioning",
+            "start_time": 0,
+            "end_time": 30,
+            "description": "Introduction to the importance of proper net positioning in padel, highlighting how incorrect positioning is a common reason players lose points unnecessarily, even at higher levels of play."
+        },
+        {
+            "title": "Common Error: Too Far Back",
+            "start_time": 30,
+            "end_time": 74,
+            "description": "Analysis of the first common positioning error where players stand too far back from the net. Explains how this creates a gap that opponents can exploit by hitting to the feet, forcing defensive shots and making it difficult to maintain an attacking position."
+        },
+        {
+            "title": "Visual Examples of Poor Backline Positioning",
+            "start_time": 74,
+            "end_time": 85,
+            "description": "Demonstration with video examples showing players positioned too far back, unable to effectively volley and forced to hit half volleys around their feet, making them vulnerable to opponents' attacks."
+        },
+        {
+            "title": "Common Error: Too Close to Net",
+            "start_time": 85,
+            "end_time": 119,
+            "description": "Explanation of the second common positioning error where players stand too close to the net. Details how this creates a large space behind that makes players vulnerable to lobs, causing immediate loss of net position."
+        },
+        {
+            "title": "Visual Examples of Poor Net Positioning",
+            "start_time": 119,
+            "end_time": 138,
+            "description": "Practical demonstration showing how standing too close to the net makes players easy targets for effective lobs that land well within the court, allowing opponents to gain positional advantage."
+        },
+        {
+            "title": "Ideal Net Position",
+            "start_time": 138,
+            "end_time": 164,
+            "description": "Detailed explanation of the optimal net position, which is approximately at the second post or one step in front. Shows how this position allows players to move either forward to attack or backward to defend against lobs based on point development."
+        },
+        {
+            "title": "Situational Positioning Adjustments",
+            "start_time": 164,
+            "end_time": 189,
+            "description": "Guidance on when to adjust the standard net position, including how to position when defending against an opponent's attack after the ball has hit the back wall, with emphasis on reducing available angles."
+        },
+        {
+            "title": "Practical Implementation and Smash Selection",
+            "start_time": 189,
+            "end_time": 229,
+            "description": "Advice on improving net positioning through conscious focus during play, with additional discussion on how net position affects smash selection. Includes reference to court position as a determining factor in choosing between aggressive smashes and more defensive options like the bandeja."
+        }
+    ]
+}

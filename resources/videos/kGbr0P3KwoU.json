@@ -1,0 +1,49 @@
+{
+    "title": "3 Easy Padel Tactics To Outsmart Your Opponent",
+    "url": "https://youtu.be/kGbr0P3KwoU",
+    "duration": 60,
+    "language": "English",
+    "difficulty_level": 1,
+    "topics": [
+        "tactical-play",
+        "match-strategy",
+        "opponent-analysis",
+        "team-coordination",
+        "game-management"
+    ],
+    "prerequisites": [
+        "Basic understanding of padel",
+        "Some match experience"
+    ],
+    "quality_score": 8,
+    "validation_status": true,
+    "sections_used": [],
+    "sections": [
+        {
+            "title": "Introduction",
+            "start_time": 0,
+            "end_time": 5,
+            "description": "Brief introduction to the three tactics that will be covered in the video."
+        },
+        {
+            "title": "Tactic 1: Play to Weaknesses",
+            "start_time": 5,
+            "end_time": 22,
+            "description": "Explanation of how to target opponents' weaknesses, such as overheads with lobs, or defaulting to targeting the backhand if weaknesses are unknown."
+        },
+        {
+            "title": "Tactic 2: The Fridge Tactic",
+            "start_time": 22,
+            "end_time": 43,
+            "description": "Description of the 'fridge tactic' where one player is continuously targeted to make them tired and pressured while their partner becomes cold and frustrated."
+        },
+        {
+            "title": "Tactic 3: Attacking Combinations",
+            "start_time": 43,
+            "end_time": 60,
+            "description": "Explanation of using attacking combinations, particularly playing volleys to the corner followed by shots down the middle to move opponents out of position."
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Concise and practical video explaining three effective tactical approaches for padel matches. The presenter clearly explains each strategy with specific examples of implementation. While brief, the video provides actionable tactics that even beginners can understand and apply immediately in their games. The 'fridge tactic' explanation is particularly insightful for doubles play psychology."
+}

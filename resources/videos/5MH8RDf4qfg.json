@@ -1,0 +1,75 @@
+{
+    "title": "Struggle with your Backhand? Padel Technique",
+    "url": "https://youtu.be/5MH8RDf4qfg",
+    "duration": 119,
+    "language": "English",
+    "difficulty_level": 1,
+    "topics": [
+        "backhand",
+        "groundstrokes",
+        "basic-technique",
+        "beginner-essentials",
+        "technical-breakdown",
+        "slow-motion-analysis"
+    ],
+    "prerequisites": [
+        "Proper grip",
+        "Basic stance"
+    ],
+    "quality_score": 9,
+    "validation_status": true,
+    "sections_used": [
+        {
+            "topic": "Backhand technique",
+            "start_time": 34,
+            "end_time": 120,
+            "file_path": "README.md#session-4-groundstrokes"
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Comprehensive guide to the padel backhand, with clear step-by-step breakdown of the technique. Particularly helpful for players transitioning from tennis. Excellent slow-motion demonstrations and technical explanations.",
+    "sections": [
+        {
+            "title": "Introduction to the Flat Backhand",
+            "start_time": 0,
+            "end_time": 20,
+            "description": "Introduction by Sandy from The Padel School explaining the focus on the single-handed flat backhand before the glass, specifically for balls that bounce in front of the service line with a contact point below chest height."
+        },
+        {
+            "title": "Real-Time Demonstration",
+            "start_time": 20,
+            "end_time": 34,
+            "description": "Full-speed demonstration of the proper flat backhand technique, showing the complete motion from preparation to follow-through in real-time conditions before transitioning to slow-motion analysis."
+        },
+        {
+            "title": "Preparation Phase in Slow Motion",
+            "start_time": 34,
+            "end_time": 55,
+            "description": "Detailed slow-motion breakdown of the preparation phase, showing proper body positioning, racket preparation with wrist cocked, and weight transfer as the player sets up for the backhand shot."
+        },
+        {
+            "title": "Contact Point Analysis",
+            "start_time": 55,
+            "end_time": 70,
+            "description": "Slow-motion examination of the precise contact point, demonstrating proper hand and racket position at impact, with emphasis on keeping the racket face flat to produce a clean, flat shot."
+        },
+        {
+            "title": "Follow-Through Technique",
+            "start_time": 70,
+            "end_time": 90,
+            "description": "Analysis of the follow-through motion, highlighting the importance of a complete swing path and proper weight transfer to generate consistent power and control on the backhand."
+        },
+        {
+            "title": "Common Mistakes and Corrections",
+            "start_time": 90,
+            "end_time": 105,
+            "description": "Discussion of common errors players make when executing the flat backhand and specific technical corrections to address these issues, especially for players transitioning from tennis."
+        },
+        {
+            "title": "Conclusion and Next Steps",
+            "start_time": 105,
+            "end_time": 119,
+            "description": "Wrap-up with encouragement to practice the technique as demonstrated, with invitation for viewers to request other technical breakdowns they would like to see in future videos."
+        }
+    ]
+}

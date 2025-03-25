@@ -1,0 +1,57 @@
+{
+    "title": "Playing to the Center: Strategic Shot Placement in Padel",
+    "url": "https://youtu.be/cLJVxtMlQRA",
+    "duration": 54,
+    "language": "Spanish",
+    "difficulty_level": 2,
+    "topics": [
+        "center-court-strategy",
+        "shot-placement",
+        "positional-recovery",
+        "tactical-play",
+        "doubles-coordination"
+    ],
+    "prerequisites": [
+        "Basic shot execution",
+        "Wall play basics",
+        "Level 1 completion"
+    ],
+    "quality_score": 9,
+    "validation_status": true,
+    "sections_used": [
+        {
+            "topic": "Shot selection",
+            "start_time": 25,
+            "end_time": 54,
+            "file_path": "README.md#session-8-wall-play-fundamentals"
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Excellent demonstration of the strategic value of directing shots to the center of the court in padel, featuring tactics for maintaining control, recovering position, and creating confusion between defensive players.",
+    "sections": [
+        {
+            "title": "Introduction to Center Court Strategy",
+            "start_time": 0,
+            "end_time": 15,
+            "description": "Demonstrates effective positioning and shot selection when facing difficult balls at the net, emphasizing the importance of directing shots to the center of the court to maintain control and set up attacking opportunities."
+        },
+        {
+            "title": "Recovery After Deep Lobs",
+            "start_time": 15,
+            "end_time": 25,
+            "description": "Shows techniques for recovering position after receiving deep lobs, highlighting how directing returns to the center court can buy time to reestablish proper attacking position."
+        },
+        {
+            "title": "Alternative Shot Selection When Out of Position",
+            "start_time": 25,
+            "end_time": 35,
+            "description": "Explains alternative shot options when players can't execute their preferred attacking shots, demonstrating specific techniques like the bandeja with topspin directed to the center to gain tactical advantage."
+        },
+        {
+            "title": "Creating Defensive Confusion",
+            "start_time": 35,
+            "end_time": 54,
+            "description": "Details how center court shots can create confusion between defensive players, forcing communication errors and potentially opening opportunities for attacking shots when opponents make positioning mistakes."
+        }
+    ]
+}

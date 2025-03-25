@@ -1,0 +1,71 @@
+{
+    "title": "Padel Grip - How to hold the racket",
+    "url": "https://youtu.be/B_tRre1W5e4",
+    "duration": 99,
+    "language": "en",
+    "difficulty_level": 1,
+    "topics": [
+        "grip",
+        "continental-grip",
+        "grip-size",
+        "safety-loop",
+        "beginner-essentials"
+    ],
+    "prerequisites": [],
+    "quality_score": 9,
+    "validated": true,
+    "sections_used": [
+        {
+            "file_path": "README.md#session-2-grip-and-stance",
+            "timestamp_start": 4,
+            "timestamp_end": 30,
+            "topic": "basic-grip-technique"
+        },
+        {
+            "file_path": "README.md#session-2-grip-and-stance",
+            "timestamp_start": 30,
+            "timestamp_end": 44,
+            "topic": "safety-loop"
+        },
+        {
+            "file_path": "README.md#session-2-grip-and-stance",
+            "timestamp_start": 44,
+            "timestamp_end": 99,
+            "topic": "grip-size"
+        }
+    ],
+    "transcript_validated": true,
+    "notes": "Clear, concise explanation of the continental grip basics. Good demonstration of grip size adjustment and safety loop usage. Perfect for beginners.",
+    "sections": [
+        {
+            "title": "Introduction to the Continental Grip",
+            "start_time": 0,
+            "end_time": 19,
+            "description": "Introduction to the basic continental grip for padel, also known as the 'shaking hands' or 'hammer' grip. Demonstrates proper hand placement with the heel of the palm at the bottom of the racket and fingers comfortably wrapped around the handle."
+        },
+        {
+            "title": "Grip Adjustments for Advanced Players",
+            "start_time": 19,
+            "end_time": 30,
+            "description": "Brief explanation that as players progress, coaches might suggest slightly adjusting hand position for specific shots, but recommends beginners start with the standard continental grip for consistency."
+        },
+        {
+            "title": "Safety Loop Usage",
+            "start_time": 30,
+            "end_time": 44,
+            "description": "Important safety information about always keeping your hand through the wrist loop when playing. Explains this is both a safety precaution to prevent the racket flying out of your hand during powerful shots and a requirement in the official rules."
+        },
+        {
+            "title": "Grip Size and Overgrips",
+            "start_time": 44,
+            "end_time": 79,
+            "description": "Explanation that new padel rackets come with small grip sizes that need to be built up with overgrips. Shows how to assess proper grip size using the index finger test (gap between fingertips and palm of thumb), while noting that grip size preference varies among players."
+        },
+        {
+            "title": "Grip Size and Tennis Elbow Prevention",
+            "start_time": 79,
+            "end_time": 99,
+            "description": "Discussion of how grip size can affect tennis elbow, explaining that too small a grip can cause over-squeezing and contribute to elbow pain. Recommends trying one or two additional overgrips if experiencing elbow issues and teases a future video on how to apply overgrips."
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "title": "IMPROVE as a TEAM - Padel Tactics",
+    "url": "https://youtu.be/QPCUK5t7qW8",
+    "duration": 452,
+    "language": "English",
+    "difficulty_level": 2,
+    "topics": [
+        "team-communication",
+        "doubles-strategy",
+        "tactical-planning",
+        "partner-coordination",
+        "match-preparation"
+    ],
+    "prerequisites": [
+        "Basic doubles positioning",
+        "Basic shot selection",
+        "Level 1 completion"
+    ],
+    "quality_score": 9,
+    "validation_status": true,
+    "sections_used": [
+        {
+            "name": "Strategic Communication",
+            "topics": [
+                "Team movement patterns",
+                "Tactical adjustments",
+                "Position synchronization",
+                "Reading game situations"
+            ],
+            "start_time": 207,
+            "end_time": 320,
+            "file_path": "README.md#session-9-doubles-strategy-essentials"
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Comprehensive guide to team improvement focusing on communication and tactical planning. Covers pre-match preparation, in-game communication, and partner coordination. Perfect for intermediate players learning to work effectively as a team.",
+    "sections": [
+        {
+            "title": "Introduction to Being a Better Teammate",
+            "start_time": 0,
+            "end_time": 35,
+            "description": "Introduction by Sandy from The Padel School, establishing the importance of being a good teammate in padel. Outlines that the video will cover the playing side, communication, and diplomatic ways to communicate with partners during matches."
+        },
+        {
+            "title": "Challenges with New Partners",
+            "start_time": 35,
+            "end_time": 61,
+            "description": "Discussion about the specific challenges of playing with new partners versus established ones. Explains that with long-term partners, players understand each other's personalities, playing styles, and shot selection preferences, while new partnerships require building these understandings from scratch."
+        },
+        {
+            "title": "Tactical Play and Predictability",
+            "start_time": 61,
+            "end_time": 107,
+            "description": "Explanation of how making sensible tactical decisions helps your partner. Emphasizes the importance of being predictable to your partner (but not to opponents) by playing with proper tactics, such as approaching the net after good lobs or chiquitas, and avoiding unpredictable movements like net rushing or moving into no-man's land."
+        },
+        {
+            "title": "Movement Coordination and Court Positioning",
+            "start_time": 107,
+            "end_time": 141,
+            "description": "Details about coordinating movements with your partner, highlighting common problems like one player hitting a tennis-style smash and staying back while their partner expects them to play a controlled bandeja and return to net. Emphasizes how poor positioning choices lead to both players being out of sync."
+        },
+        {
+            "title": "Predictable Intentions vs Unpredictable Shots",
+            "start_time": 141,
+            "end_time": 208,
+            "description": "Clarifies the distinction between being predictable to your partner and unpredictable to opponents. Uses the bandeja shot as an example, explaining that while shot direction can vary (cross-court, down the line, center), the intention to recover net position after the shot should be consistent and predictable for your partner."
+        },
+        {
+            "title": "Communication Before and Between Points",
+            "start_time": 208,
+            "end_time": 259,
+            "description": "Covers the importance of communication before and between points. Recommends discussing game plans after warm-up, understanding opponents' playing styles, and maintaining ongoing communication between points to assess strategy effectiveness and provide partner support."
+        },
+        {
+            "title": "Communication During Points",
+            "start_time": 259,
+            "end_time": 325,
+            "description": "Detailed explanation of in-point communication, referencing professional players on the World Padel Tour who constantly communicate. Provides examples of effective communication like calling out opponent positions (\"one back, one forward\") early enough for partners to adjust shot selection, and suggests establishing clear communication terms at the start of matches."
+        },
+        {
+            "title": "Diplomatic Feedback and Support",
+            "start_time": 325,
+            "end_time": 392,
+            "description": "Guidance on recognizing when partners are struggling and how to provide constructive feedback diplomatically. Recommends establishing communication patterns from the beginning of matches rather than waiting until problems arise, and framing suggestions positively as tactical opportunities rather than highlighting mistakes."
+        },
+        {
+            "title": "Constructive vs Critical Communication",
+            "start_time": 392,
+            "end_time": 429,
+            "description": "Advice on keeping communication positive and solution-focused rather than problem-focused. Suggests redirecting attention to exploiting opponents' weaknesses rather than dwelling on partner's mistakes, and warns against giving technical advice during matches unless you're a coach."
+        },
+        {
+            "title": "Conclusion and Additional Resources",
+            "start_time": 429,
+            "end_time": 452,
+            "description": "Concluding remarks about the challenges of communication with new partners, with emphasis on getting to know their personality before playing. References additional video resources on communication during points and how information affects shot selection."
+        }
+    ]
+}

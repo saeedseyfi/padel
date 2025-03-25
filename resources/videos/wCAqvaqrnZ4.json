@@ -1,0 +1,71 @@
+{
+    "title": "Padel Volleys",
+    "url": "https://youtu.be/wCAqvaqrnZ4",
+    "duration": 209,
+    "language": "English",
+    "difficulty_level": 1,
+    "topics": [
+        "volley-technique",
+        "net-play",
+        "footwork",
+        "grip",
+        "beginner-skills",
+        "ready-position",
+        "blocking-technique"
+    ],
+    "prerequisites": [
+        "Basic racket grip",
+        "Basic court movement",
+        "Ready position understanding"
+    ],
+    "quality_score": 9,
+    "validation_status": true,
+    "sections_used": [
+        {
+            "topic": "Volley Fundamentals",
+            "start_time": 4,
+            "end_time": 130,
+            "file_path": "README.md#session-6-net-play"
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Excellent beginner-friendly explanation of volley technique, focusing on proper ready position, grip, and simple blocking technique. The video emphasizes keeping the technique simple and effective, with clear demonstrations of common errors and their corrections. Particularly useful for the net-play session as it covers all fundamental aspects of volley execution.",
+    "sections": [
+        {
+            "title": "Introduction to Padel Volleys",
+            "start_time": 0,
+            "end_time": 15,
+            "description": "Introduction to the importance of volleys in padel, highlighting how essential this skill is for effective net play and explaining the basics that will be covered in the lesson."
+        },
+        {
+            "title": "Ready Position Fundamentals",
+            "start_time": 15,
+            "end_time": 45,
+            "description": "Detailed explanation of the proper ready position for volleys, including racket height, hand position, and body stance to ensure maximum preparedness for quick reactions at the net."
+        },
+        {
+            "title": "Forehand Volley Technique",
+            "start_time": 45,
+            "end_time": 80,
+            "description": "Step-by-step instruction on executing the forehand volley, emphasizing the importance of a simple blocking technique rather than swinging, with focus on racket face angle and contact point."
+        },
+        {
+            "title": "Backhand Volley Technique",
+            "start_time": 80,
+            "end_time": 115,
+            "description": "Comprehensive guidance on the backhand volley execution, demonstrating proper hand position, racket preparation, and contact point for effective backhand volleys at the net."
+        },
+        {
+            "title": "Common Volley Errors and Corrections",
+            "start_time": 115,
+            "end_time": 160,
+            "description": "Analysis of typical mistakes beginners make when volleying, with clear demonstrations of incorrect techniques followed by proper corrections to improve consistency and effectiveness."
+        },
+        {
+            "title": "Practical Application and Practice Tips",
+            "start_time": 160,
+            "end_time": 209,
+            "description": "Advice on how to practice volley techniques effectively, with suggestions for drills and progression methods to develop confident and reliable net play skills in real game situations."
+        }
+    ]
+}

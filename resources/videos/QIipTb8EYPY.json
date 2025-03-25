@@ -1,0 +1,77 @@
+{
+    "title": "BAJADA de PARED - Aprende Pádel",
+    "url": "https://youtu.be/QIipTb8EYPY",
+    "duration": 221,
+    "language": "Spanish",
+    "difficulty_level": 2,
+    "topics": [
+        "wall-play",
+        "back-wall",
+        "side-wall",
+        "shot-execution",
+        "intermediate-skills",
+        "offensive-wall-play",
+        "defensive-wall-play"
+    ],
+    "prerequisites": [
+        "Basic wall play",
+        "Court positioning",
+        "Level 1 completion"
+    ],
+    "quality_score": 9,
+    "validation_status": true,
+    "sections_used": [
+        {
+            "topic": "Shot execution",
+            "start_time": 30,
+            "end_time": 135,
+            "file_path": "README.md#session-8-wall-play-fundamentals"
+        },
+        {
+            "topic": "Side wall techniques",
+            "start_time": 180,
+            "end_time": 270,
+            "file_path": "README.md#session-8-wall-play-fundamentals"
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Comprehensive coverage of wall play techniques, with special focus on generating speed and power from wall rebounds (bajada de pared). Features professional players Carolina Navarro and Cecilia Reiter demonstrating proper technique. Video is in Spanish but visual demonstrations are clear enough for non-Spanish speakers.",
+    "sections": [
+        {
+            "title": "Introduction to Wall Play Fundamentals",
+            "start_time": 0,
+            "end_time": 30,
+            "description": "Introduction to the importance of wall play in padel, emphasizing how effective wall play can be both a defensive necessity and an offensive opportunity, with overview of the techniques that will be covered."
+        },
+        {
+            "title": "Back Wall Shot Execution",
+            "start_time": 30,
+            "end_time": 70,
+            "description": "Detailed instruction on how to properly execute shots after the ball rebounds from the back wall, focusing on footwork, body positioning, and racket preparation to effectively handle these defensive situations."
+        },
+        {
+            "title": "Creating Offensive Opportunities from Defense",
+            "start_time": 70,
+            "end_time": 105,
+            "description": "Techniques for transforming defensive wall play into offensive opportunities, demonstrating how to add pace and direction to shots off the back wall to put opponents under pressure."
+        },
+        {
+            "title": "Contact Point and Follow-Through",
+            "start_time": 105,
+            "end_time": 135,
+            "description": "Analysis of proper contact point and follow-through mechanics when playing off the back wall, showing how these technical elements affect the speed, control, and direction of the resulting shot."
+        },
+        {
+            "title": "Reading Wall Rebounds",
+            "start_time": 135,
+            "end_time": 180,
+            "description": "Guidance on anticipating and reading how the ball will rebound from different walls, with emphasis on positioning yourself early to be in the optimal position to handle various rebound angles and speeds."
+        },
+        {
+            "title": "Side Wall Techniques",
+            "start_time": 180,
+            "end_time": 221,
+            "description": "Specific techniques for handling balls that rebound off side walls, including proper footwork, racket face adjustments, and timing considerations that differ from back wall situations."
+        }
+    ]
+}

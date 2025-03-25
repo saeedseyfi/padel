@@ -1,0 +1,69 @@
+{
+    "title": "Key to a BIG SMASH",
+    "url": "https://youtu.be/5l0vMSN2Mek",
+    "duration": 157,
+    "language": "English",
+    "difficulty_level": 1,
+    "topics": [
+        "smash-technique",
+        "net-play",
+        "overhead-shots",
+        "power-generation",
+        "beginner-skills"
+    ],
+    "prerequisites": [
+        "Basic racket control",
+        "Basic overhead movement",
+        "Ready position understanding"
+    ],
+    "quality_score": 8,
+    "validation_status": true,
+    "sections_used": [
+        {
+            "section_name": "Basic Smash Technique",
+            "start_time": 31,
+            "end_time": 120,
+            "file_path": "README.md#session-6-net-play",
+            "topics_covered": [
+                "Arm preparation",
+                "Wrist technique",
+                "Racket speed",
+                "Contact timing"
+            ]
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Clear introduction to the fundamental aspects of executing a smash in padel. The video emphasizes key technical elements like relaxed arm preparation and proper wrist movement, making it ideal for beginners learning the basic smash technique. The content aligns well with the net-play session's progression from basic volleys to overhead shots.",
+    "sections": [
+        {
+            "title": "Introduction to Power Generation",
+            "start_time": 0,
+            "end_time": 31,
+            "description": "Introduction to the common challenge of increasing smash power and the misconception that muscular strength is the primary factor. Explains that many players mistakenly tense up their muscles when trying to generate power."
+        },
+        {
+            "title": "The Stretch Reflex Principle",
+            "start_time": 31,
+            "end_time": 63,
+            "description": "Explanation of the stretch reflex principle for generating explosive power, comparing it to other athletic movements like jumping or throwing. Emphasizes that power comes from a quick stretch followed by explosive release rather than muscular force."
+        },
+        {
+            "title": "Whip-Like Motion Technique",
+            "start_time": 63,
+            "end_time": 93,
+            "description": "Detailed instruction on achieving a whip-like motion with a loose, relaxed arm to generate racket head speed. Highlights the importance of thinking about speed rather than strength, with specific focus on wrist relaxation."
+        },
+        {
+            "title": "Topspin Smash Considerations",
+            "start_time": 93,
+            "end_time": 128,
+            "description": "Specific application of the loose arm technique to topspin (kick) smashes, demonstrating how a relaxed approach allows players to brush over the ball effectively. Includes reference to professional player Lebron as an example of elastic, flexible power generation versus muscular strength."
+        },
+        {
+            "title": "Practice Recommendations and Conclusion",
+            "start_time": 128,
+            "end_time": 157,
+            "description": "Summary of key points with practical advice for implementing these techniques in training sessions. Encourages players to focus on relaxation and faster racket head speed to improve power, with reference to related resources for further learning."
+        }
+    ]
+}

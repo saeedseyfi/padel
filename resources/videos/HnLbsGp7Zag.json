@@ -1,0 +1,92 @@
+{
+    "title": "Net Position to WIN Points!",
+    "url": "https://youtu.be/HnLbsGp7Zag",
+    "duration": 429,
+    "language": "English",
+    "difficulty_level": 2,
+    "topics": [
+        "net-position",
+        "partner-coordination",
+        "movement-patterns",
+        "intermediate-skills"
+    ],
+    "prerequisites": [
+        "Basic net play",
+        "Partner coordination",
+        "Level 1 completion"
+    ],
+    "quality_score": 9,
+    "validation_status": true,
+    "sections_used": [
+        {
+            "section_name": "Movement and Coordination",
+            "start_time": 49,
+            "end_time": 240,
+            "file_path": "README.md#session-10-transition-game"
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Detailed explanation of partner coordination and movement patterns at the net, with emphasis on the 'star position' concept and proper court coverage. The video provides excellent examples of how partners should work together during transitions and position adjustments.",
+    "sections": [
+        {
+            "title": "Introduction to Net Positioning",
+            "start_time": 0,
+            "end_time": 21,
+            "description": "Brief introduction explaining that there is a specific way to move at the net and position yourself to win points, setting the context for the detailed instruction that follows."
+        },
+        {
+            "title": "Common Struggles and Overview",
+            "start_time": 21,
+            "end_time": 49,
+            "description": "Identifies common problems players face with net movement and coordination with partners, explaining that the video will cover where to move, how to move, and what to look for at the other end of the court when getting into different positions."
+        },
+        {
+            "title": "Home Base Position at Net",
+            "start_time": 49,
+            "end_time": 84,
+            "description": "Detailed explanation of the starting 'home base' position at the net, recommending players position themselves slightly in front of the second post and in line with the gap in the glass panels when covering the down-the-line position."
+        },
+        {
+            "title": "The Star Movement Pattern",
+            "start_time": 84,
+            "end_time": 155,
+            "description": "Introduction to the 'star' movement concept, where players move out to hit shots and then return to the center of their 'star' position. Demonstrates proper movement patterns for volleys and bandeja shots, emphasizing the importance of returning to the star center after each shot."
+        },
+        {
+            "title": "Common Positioning Mistakes",
+            "start_time": 155,
+            "end_time": 174,
+            "description": "Highlights a common mistake where players hit a volley, remain in the forward position, and then leave too much space behind them for opponents to exploit, reinforcing the importance of returning to the star center after each shot."
+        },
+        {
+            "title": "Adapting Position with Shot Direction",
+            "start_time": 174,
+            "end_time": 240,
+            "description": "Explains how the center of the star position changes when players or their partners hit cross-court versus down-the-line shots. Shows how players need to shift between two different home bases depending on where the ball is being hit."
+        },
+        {
+            "title": "Middle Court Positioning",
+            "start_time": 240,
+            "end_time": 275,
+            "description": "Addresses positioning when the ball is hit down the middle of the court, explaining that players would be positioned somewhere between their two home bases and need to adjust based on opponents' likely shot selection."
+        },
+        {
+            "title": "Defensive and Offensive Adjustments",
+            "start_time": 275,
+            "end_time": 329,
+            "description": "Guidance on when to move forward or backward from the home base position based on reading opponents. Suggests stepping forward when opponents are off-balance for attacking opportunities, and stepping back when anticipating a lob over your head."
+        },
+        {
+            "title": "Reading Opponents' Position",
+            "start_time": 329,
+            "end_time": 400,
+            "description": "Discussion on the importance of anticipation and reading opponents' position and racket preparation to make proactive positioning adjustments, emphasizing that proper positioning depends on recognizing opponents' intentions."
+        },
+        {
+            "title": "Conclusion and Course Promotion",
+            "start_time": 400,
+            "end_time": 429,
+            "description": "Summarizes the key points about effective net positioning while promoting the full course that covers additional topics like defending lobs, shot selection, and recovery techniques to improve net play."
+        }
+    ]
+}

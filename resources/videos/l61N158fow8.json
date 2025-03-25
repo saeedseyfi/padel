@@ -1,0 +1,68 @@
+{
+    "title": "Understanding Court Zones in Padel",
+    "url": "https://youtu.be/l61N158fow8",
+    "duration": 155,
+    "language": "Spanish",
+    "difficulty_level": 2,
+    "topics": [
+        "positioning",
+        "net-position",
+        "mid-court",
+        "intermediate-techniques"
+    ],
+    "prerequisites": [
+        "Basic court movement",
+        "Position awareness",
+        "Level 1 completion"
+    ],
+    "quality_score": 9,
+    "validation_status": true,
+    "sections_used": [
+        {
+            "topic": "Court zones overview",
+            "start_time": 45,
+            "end_time": 135,
+            "file_path": "README.md#session-1-introduction-to-padel-essential-equipment"
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Clear explanation of different court zones and their tactical importance, with focus on net and mid-court positions.",
+    "sections": [
+        {
+            "title": "Introduction to Proper Court Positioning",
+            "start_time": 0,
+            "end_time": 23,
+            "description": "Introduction to the importance of proper positioning on the padel court, establishing that correct positioning is fundamental to effective play."
+        },
+        {
+            "title": "Basic Defensive Position",
+            "start_time": 23,
+            "end_time": 60,
+            "description": "Detailed explanation of the proper defensive stance, emphasizing the importance of positioning between the baseline and back wall, with feet parallel, knees slightly bent, and paddle held forward for quick reaction."
+        },
+        {
+            "title": "Returning to the Defensive Position",
+            "start_time": 60,
+            "end_time": 81,
+            "description": "Discussion about the importance of consistently returning to the same defensive position after each shot to maintain spatial awareness and better anticipate ball rebounds."
+        },
+        {
+            "title": "The Danger Zone",
+            "start_time": 81,
+            "end_time": 104,
+            "description": "Explanation of the 'danger zone' where approximately 70% of balls bounce, highlighting why players should avoid positioning themselves too close to this area as it puts them at a disadvantage."
+        },
+        {
+            "title": "Net Position and Attack Zone",
+            "start_time": 104,
+            "end_time": 133,
+            "description": "Guidance on proper positioning in the attack zone near the net, with advice on how to best handle volleys and bandeja shots while maintaining optimal court coverage."
+        },
+        {
+            "title": "Net Positioning Strategy",
+            "start_time": 133,
+            "end_time": 155,
+            "description": "Strategic considerations for net play, explaining why standing too close to the net can be risky against lobs and offering a balanced approach to advancing only for short balls that can be attacked decisively."
+        }
+    ]
+}

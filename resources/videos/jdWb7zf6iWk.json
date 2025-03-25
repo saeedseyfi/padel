@@ -1,0 +1,100 @@
+{
+    "title": "Mastering Winning Padel Positions: A Comprehensive Guide",
+    "url": "https://youtu.be/jdWb7zf6iWk",
+    "duration": 472,
+    "language": "English",
+    "difficulty_level": 2,
+    "topics": [
+        "doubles-strategy",
+        "communication",
+        "positioning",
+        "intermediate-skills",
+        "court-coverage",
+        "team-movement"
+    ],
+    "prerequisites": [
+        "Basic shot execution",
+        "Court awareness",
+        "Level 1 completion"
+    ],
+    "quality_score": 9,
+    "validation_status": true,
+    "sections_used": [
+        {
+            "topic": "Partner communication",
+            "start_time": 180,
+            "end_time": 270,
+            "file_path": "README.md#session-9-doubles-strategy-essentials"
+        },
+        {
+            "topic": "Court positioning",
+            "start_time": 46,
+            "end_time": 150,
+            "file_path": "README.md#session-9-doubles-strategy-essentials"
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Comprehensive guide to doubles strategy, covering both verbal and non-verbal communication, as well as essential court positioning principles. Clear examples of partner coordination and tactical adjustments.",
+    "sections": [
+        {
+            "title": "Introduction to Court Positioning",
+            "start_time": 0,
+            "end_time": 24,
+            "description": "Sandy from The Padel School introduces the importance of proper court positioning in padel, both at the back of the court and at the net position, with a focus on the most common positioning errors."
+        },
+        {
+            "title": "No Man's Land Discussion",
+            "start_time": 24,
+            "end_time": 46,
+            "description": "Discussion of the common problem area known as 'no man's land' where many players, especially those transitioning from tennis, tend to get stuck in an ineffective position between the back and front of the court."
+        },
+        {
+            "title": "Back Court Positioning Fundamentals",
+            "start_time": 46,
+            "end_time": 85,
+            "description": "Detailed explanation of optimal back court positioning using the glass panel separations as reference points, recommending positioning approximately one big step back from the service line and two steps from the side glass."
+        },
+        {
+            "title": "Court Responsibility and Ball Coverage",
+            "start_time": 85,
+            "end_time": 160,
+            "description": "Analysis of which player should take which balls based on court zones and trajectory, explaining how the court can be divided into sections for clearer responsibility allocation between partners, including when to help your partner with balls in the middle."
+        },
+        {
+            "title": "Transitioning from Back to Net",
+            "start_time": 160,
+            "end_time": 213,
+            "description": "Strategic approach to moving from the back court to the net position, emphasizing the importance of patience and choosing the right moment rather than forcing a step-by-step approach that leads to compromised positions and half-volleys."
+        },
+        {
+            "title": "Net Position Objectives and Strategy",
+            "start_time": 213,
+            "end_time": 258,
+            "description": "Explanation of the two main objectives at the net: finishing points and maintaining net control. Includes discussion of when to play setup shots rather than attempting winners, and when to use defensive shots like bandejas to maintain net position after lobs."
+        },
+        {
+            "title": "Optimal Net Positioning",
+            "start_time": 258,
+            "end_time": 328,
+            "description": "Guidance on ideal distance from the net using the court posts as reference points, recommending positioning between the first and second posts. Includes situational adjustments based on opponents' likely shots and ball trajectory."
+        },
+        {
+            "title": "Partner Movement Coordination",
+            "start_time": 328,
+            "end_time": 396,
+            "description": "Detailed instructions on how partners should move together as a unit to cover angles and gaps, with specific examples of coordinated movements when balls go down the line or cross-court, and the responsibility of covering the middle after changing the direction of play."
+        },
+        {
+            "title": "Reading Opponents and Anticipation",
+            "start_time": 396,
+            "end_time": 438,
+            "description": "Tips on watching opponents' body positioning and racket preparation to anticipate their shots, allowing for better positioning and preparation for specific shots like lobs, viboras, or aggressive returns."
+        },
+        {
+            "title": "Advanced Tactics and Resources",
+            "start_time": 438,
+            "end_time": 472,
+            "description": "Introduction to more advanced tactical concepts and information about The Padel School's resources for improving tactical play, including their tactics course and Padel School+ membership for players wanting to improve their match strategy."
+        }
+    ]
+}

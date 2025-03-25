@@ -1,0 +1,93 @@
+{
+    "title": "HELP Your Partner - Padel Tactics!",
+    "url": "https://youtu.be/yrIlDgfHqb4",
+    "duration": 240,
+    "language": "English",
+    "difficulty_level": 2,
+    "topics": [
+        "partner-communication",
+        "doubles-strategy",
+        "shot-selection",
+        "team-coordination",
+        "match-communication"
+    ],
+    "prerequisites": [
+        "Basic doubles positioning",
+        "Basic shot selection",
+        "Level 1 completion"
+    ],
+    "quality_score": 9,
+    "validation_status": true,
+    "sections_used": [
+        {
+            "name": "Partner Communication",
+            "topics": [
+                "Verbal calls",
+                "Hand signals",
+                "Movement intentions",
+                "Partner coordination"
+            ],
+            "start_time": 9,
+            "end_time": 145,
+            "file_path": "README.md#session-9-doubles-strategy-essentials"
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Essential guide to effective partner communication in padel, focusing on timing and clarity of calls. Covers both defensive and offensive situations, with practical examples of when and what to communicate. Excellent for intermediate players developing their doubles game.",
+    "sections": [
+        {
+            "title": "Introduction to Partner Communication",
+            "start_time": 0,
+            "end_time": 13,
+            "description": "Introduction explaining that while players are often told to communicate with their partners, many aren't sure what specific information they should be conveying during a match. Sets up the purpose of the video to provide practical guidance on effective communication."
+        },
+        {
+            "title": "Communication During Lob Situations",
+            "start_time": 13,
+            "end_time": 35,
+            "description": "Focuses on the first key communication scenario: when a player has been lobbed and is running back to play the ball off the glass. Explains that the partner should communicate opponent positions to help the player make better shot selections."
+        },
+        {
+            "title": "Communication Level Progression",
+            "start_time": 35,
+            "end_time": 54,
+            "description": "Discussion of how communication complexity increases with skill level, from basic information exchange at beginner levels to detailed positional descriptions at professional levels where players might specify exact opponent positions (back, middle, close)."
+        },
+        {
+            "title": "Understanding Partner Terminology",
+            "start_time": 54,
+            "end_time": 85,
+            "description": "Emphasizes the importance of understanding your partner's terminology, explaining that different partners might use various terms (\"up\", \"net\", \"close\") to describe the same situation. Notes that long-term partnerships develop better communication through familiarity."
+        },
+        {
+            "title": "Basic Position Callouts",
+            "start_time": 85,
+            "end_time": 107,
+            "description": "Provides specific examples of basic position calls, such as \"both forward\" or \"both back\" and explains the challenge of describing when opponents are in different positions. Highlights variations in how players describe cross-court versus down-the-line opponent positions."
+        },
+        {
+            "title": "Shot Selection Based on Communication",
+            "start_time": 107,
+            "end_time": 145,
+            "description": "Connects communication to shot selection decisions, explaining how knowing opponent positions affects tactical choices. For example, if opponents are very close to the net, a lob becomes more effective; if they're back, a more aggressive shot followed by approaching the net might be appropriate."
+        },
+        {
+            "title": "Common Communication Errors: Timing",
+            "start_time": 145,
+            "end_time": 176,
+            "description": "Addresses the problem of late communication, emphasizing that information must be provided early enough for partners to adjust their shots. Gives examples of both ground stroke and smash situations where late information is ineffective or distracting."
+        },
+        {
+            "title": "Common Communication Errors: Court Awareness",
+            "start_time": 176,
+            "end_time": 219,
+            "description": "Highlights the importance of watching opponents to provide accurate information, rather than focusing solely on your partner. Demonstrates proper defensive repositioning when a partner is lobbed, and warns against being caught out of position when opponents attack."
+        },
+        {
+            "title": "Conclusion and Additional Resources",
+            "start_time": 219,
+            "end_time": 240,
+            "description": "Summarizes the key points about communication between partners and refers viewers to additional resources on pair movement to better understand court coverage and positioning as a team."
+        }
+    ]
+}

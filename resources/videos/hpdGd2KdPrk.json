@@ -1,0 +1,128 @@
+{
+    "title": "How to MOVE YOUR FEET for padel! Basic to Advanced Padel Tips!",
+    "url": "https://youtu.be/hpdGd2KdPrk",
+    "duration": 444,
+    "language": "English",
+    "difficulty_level": 1,
+    "topics": [
+        "footwork",
+        "split-step",
+        "movement-patterns",
+        "court-positioning",
+        "tennis-vs-padel",
+        "beginner-essentials",
+        "agility",
+        "multi-directional-movement"
+    ],
+    "prerequisites": [],
+    "quality_score": 9,
+    "validation_status": true,
+    "sections_used": [
+        {
+            "topic": "Split step basics",
+            "start_time": 35,
+            "end_time": 108,
+            "file_path": "README.md#session-3-movement-fundamentals"
+        },
+        {
+            "topic": "Footwork progression",
+            "start_time": 108,
+            "end_time": 188,
+            "file_path": "README.md#session-3-movement-fundamentals"
+        },
+        {
+            "topic": "Tennis vs Padel footwork differences",
+            "start_time": 226,
+            "end_time": 290,
+            "file_path": "README.md#session-1-introduction-to-padel-essential-equipment"
+        },
+        {
+            "topic": "Multi-directional movement",
+            "start_time": 290,
+            "end_time": 361,
+            "file_path": "README.md#session-3-movement-fundamentals"
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Excellent comprehensive guide to padel footwork fundamentals. Covers split step timing, progression from basic to advanced movement patterns, and key differences from tennis footwork. Clear explanations of multi-directional movement requirements and practical demonstrations.",
+    "sections": [
+        {
+            "title": "Introduction to Padel Footwork",
+            "start_time": 0,
+            "end_time": 32,
+            "description": "Introduction explaining the importance of footwork in padel, outlining how the video will cover basics for players new to racket sports and then address differences for players transitioning from competitive tennis backgrounds."
+        },
+        {
+            "title": "The Split Step: Foundation of Movement",
+            "start_time": 32,
+            "end_time": 75,
+            "description": "Detailed explanation of the split step as the basic building block of padel movement, demonstrating how to time the bounce on toes with opponent's ball contact and how this activates the calves for quick movement in any direction."
+        },
+        {
+            "title": "Split Step Timing and Application",
+            "start_time": 75,
+            "end_time": 108,
+            "description": "Practical demonstration of split step timing through game situations, showing how to coordinate the bounce with opponent's ball contact and how to maintain continuous movement on the toes rather than settling onto heels."
+        },
+        {
+            "title": "Beginner vs Advanced Footwork Patterns",
+            "start_time": 108,
+            "end_time": 143,
+            "description": "Comparison of beginner and advanced footwork patterns, explaining how professional players appear to use minimal steps due to their ability to anticipate ball trajectories, while beginners should use more small adjustment steps."
+        },
+        {
+            "title": "Importance of Extra Footwork for Beginners",
+            "start_time": 143,
+            "end_time": 188,
+            "description": "Guidance on why beginners should prioritize using extra footwork steps, particularly when handling wall rebounds, to develop ball tracking skills before progressing to the more economical movement patterns of advanced players."
+        },
+        {
+            "title": "Creating a Stable Base for Shots",
+            "start_time": 188,
+            "end_time": 226,
+            "description": "Instruction on how to use small adjustment steps to create a solid, stable base for striking the ball, with emphasis on balance for shot accuracy and warnings about the consequences of setting base too early or in the wrong position."
+        },
+        {
+            "title": "Tennis vs Padel Footwork: Key Differences",
+            "start_time": 226,
+            "end_time": 260,
+            "description": "Analysis of how padel footwork differs from tennis, highlighting the shorter reaction times due to court dimensions and the need for lighter, less deep split steps to enable faster responses to shots from opponents at the net."
+        },
+        {
+            "title": "Multi-Directional Movement Patterns",
+            "start_time": 260,
+            "end_time": 290,
+            "description": "Explanation of padel's requirement for multi-directional movement compared to tennis, demonstrating how players need to be ready to move in all directions including around obstacles like walls and corners."
+        },
+        {
+            "title": "Game Situation Analysis: Movement Transitions",
+            "start_time": 290,
+            "end_time": 326,
+            "description": "Analysis of live game footage showing how players transition between attacking and defending positions, highlighting the multi-directional footwork requirements and coordinated split-stepping between partners."
+        },
+        {
+            "title": "Stance Width Considerations",
+            "start_time": 326,
+            "end_time": 361,
+            "description": "Discussion of proper stance width for padel, explaining why the tennis-style wide stance is less effective in padel and demonstrating how a narrower stance enables faster multi-directional movement."
+        },
+        {
+            "title": "Real Match Movement Examples",
+            "start_time": 361,
+            "end_time": 390,
+            "description": "Analysis of match footage showing effective footwork techniques, with emphasis on how narrow stance and light split steps allow players to quickly react to lobs, volleys, and lateral movements."
+        },
+        {
+            "title": "Power Generation Differences",
+            "start_time": 390,
+            "end_time": 429,
+            "description": "Final comparison between tennis and padel footwork regarding power generation, explaining how padel requires less explosive leg drive than tennis and more emphasis on positioning and adaptability."
+        },
+        {
+            "title": "Conclusion and Next Steps",
+            "start_time": 429,
+            "end_time": 444,
+            "description": "Closing remarks with mention of upcoming fitness and training resources specifically for padel players, with invitation for viewers to ask questions in the comments."
+        }
+    ]
+}

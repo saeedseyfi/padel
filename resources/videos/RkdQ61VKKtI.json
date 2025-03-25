@@ -1,0 +1,58 @@
+{
+    "title": "PadelPod | Padel Rules",
+    "url": "https://youtu.be/RkdQ61VKKtI",
+    "duration": 80,
+    "language": "English",
+    "difficulty_level": 1,
+    "topics": [
+        "rules",
+        "introduction",
+        "gameplay",
+        "beginner-essentials"
+    ],
+    "prerequisites": [],
+    "quality_score": 8,
+    "validation_status": true,
+    "sections_used": [
+        {
+            "topic": "Basic rules and gameplay",
+            "start_time": 0,
+            "end_time": 80,
+            "file_path": "README.md#session-2-grip-and-stance"
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Clear explanation of basic padel rules and gameplay concepts. Includes helpful visual demonstrations and comparisons to tennis and squash.",
+    "sections": [
+        {
+            "title": "Introduction to Padel",
+            "start_time": 0,
+            "end_time": 15,
+            "description": "Brief introduction to padel as a racket sport, highlighting its growing popularity and explaining how it combines elements of tennis and squash in an enclosed court."
+        },
+        {
+            "title": "Court Layout and Equipment",
+            "start_time": 15,
+            "end_time": 30,
+            "description": "Overview of the padel court dimensions, glass walls, and mesh fencing, along with explanation of the specialized padel racket which differs from tennis and squash equipment."
+        },
+        {
+            "title": "Basic Scoring System",
+            "start_time": 30,
+            "end_time": 45,
+            "description": "Explanation of the scoring system which follows tennis points (15, 30, 40, game), with sets typically played to 6 games and matches usually best of 3 sets."
+        },
+        {
+            "title": "Serving Rules",
+            "start_time": 45,
+            "end_time": 60,
+            "description": "Demonstration of the underhand serving technique required in padel, with explanation of proper foot positioning behind the service line and the diagonal service box target."
+        },
+        {
+            "title": "Wall Play Rules",
+            "start_time": 60,
+            "end_time": 80,
+            "description": "Explanation of how wall play works in padel, including when it's legal to hit the ball after it bounces off walls and how this creates unique strategic opportunities compared to other racket sports."
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Padel Tactics: Basic Court Position",
+    "url": "https://youtu.be/17DC_atNmkQ",
+    "duration": 189,
+    "language": "English",
+    "difficulty_level": 1,
+    "topics": [
+        "basic-positioning",
+        "court-awareness",
+        "beginner-techniques",
+        "stance",
+        "defensive-positioning",
+        "net-play-positioning"
+    ],
+    "prerequisites": [
+        "Basic padel rules",
+        "Equipment familiarity"
+    ],
+    "quality_score": 9,
+    "validation_status": true,
+    "sections_used": [
+        {
+            "topic": "Court Position",
+            "start_time": 46,
+            "end_time": 150,
+            "file_path": "README.md#session-2-grip-and-stance"
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Clear explanation of basic court positioning fundamentals, including back court positioning, net position fundamentals, and proper distance from walls. Perfect for beginners learning proper stance and court awareness.",
+    "sections": [
+        {
+            "title": "Introduction to Basic Court Positioning",
+            "start_time": 0,
+            "end_time": 13,
+            "description": "Sandy introduces the topic of basic court positioning for both players, explaining the importance of proper positioning for beginners."
+        },
+        {
+            "title": "Back Court Positioning Fundamentals",
+            "start_time": 13,
+            "end_time": 42,
+            "description": "Detailed explanation of where players should position themselves when at the back of the court, using glass panels as reference points. Recommends standing about one step behind the service line and two steps from the side glass."
+        },
+        {
+            "title": "Return Position and Defensive Positioning",
+            "start_time": 42,
+            "end_time": 70,
+            "description": "Instructions for both players' positioning during opponent's serve and when defending, with emphasis on maintaining position behind the service line and only coming forward after hitting a good lob."
+        },
+        {
+            "title": "Net Position Fundamentals",
+            "start_time": 70,
+            "end_time": 105,
+            "description": "Explanation of optimal net position using the court posts as reference points. Details how to position in line with the second post to be able to both volley effectively and cover lobs to the back of the court."
+        },
+        {
+            "title": "Common Positioning Mistakes",
+            "start_time": 105,
+            "end_time": 125,
+            "description": "Discussion of common beginner mistakes, particularly standing too close to the net, which makes players vulnerable to lobs and requires excessive running to recover."
+        },
+        {
+            "title": "Practical Examples with Players",
+            "start_time": 125,
+            "end_time": 155,
+            "description": "Visual demonstrations of proper positioning with female players showing effective net position, defensive recovery, and attacking approach after opponent's weak shots."
+        },
+        {
+            "title": "Advanced Positioning Concepts",
+            "start_time": 155,
+            "end_time": 173,
+            "description": "Brief introduction to how professional players modify these basic positions during play, noting that advanced tactics will build upon these fundamental starting positions."
+        },
+        {
+            "title": "Summary and Conclusion",
+            "start_time": 173,
+            "end_time": 189,
+            "description": "Recap of the key positioning concepts covered in the video, emphasizing the importance of proper back court and net positions as the foundation for more advanced tactical play."
+        }
+    ]
+}

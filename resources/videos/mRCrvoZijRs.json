@@ -1,0 +1,53 @@
+{
+    "title": "Try these 3 Essential Steps for Padel! 👟 #Agility #PadelTennis",
+    "url": "https://youtu.be/mRCrvoZijRs",
+    "duration": 21,
+    "language": "English",
+    "difficulty_level": 1,
+    "topics": [
+        "footwork",
+        "essential-steps",
+        "agility",
+        "movement-patterns",
+        "beginner-essentials"
+    ],
+    "prerequisites": [],
+    "quality_score": 8,
+    "validation_status": true,
+    "sections_used": [
+        {
+            "topic": "Essential footwork patterns",
+            "start_time": 0,
+            "end_time": 21,
+            "file_path": "README.md#session-1-introduction-to-padel-essential-equipment"
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Quick but effective demonstration of three fundamental footwork patterns in padel. Perfect for beginners to understand the basic movement requirements. Short format makes it easy to review and practice.",
+    "sections": [
+        {
+            "title": "Introduction to Essential Footwork",
+            "start_time": 0,
+            "end_time": 6,
+            "description": "Brief introduction identifying the three most common footwork patterns in padel and questioning whether viewers are using them in their game."
+        },
+        {
+            "title": "Demonstration of Split Step",
+            "start_time": 6,
+            "end_time": 11,
+            "description": "Visual demonstration of the split step, a fundamental movement where players bounce lightly on the balls of their feet to prepare for quick directional changes."
+        },
+        {
+            "title": "Demonstration of Shuffle Step",
+            "start_time": 11,
+            "end_time": 16,
+            "description": "Visual demonstration of the shuffle step technique, which allows players to move laterally while maintaining proper positioning and balance."
+        },
+        {
+            "title": "Demonstration of Recovery Step",
+            "start_time": 16,
+            "end_time": 21,
+            "description": "Visual demonstration of the recovery step, showing how players should quickly return to optimal court position after hitting the ball."
+        }
+    ]
+}

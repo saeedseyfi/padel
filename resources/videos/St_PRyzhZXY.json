@@ -1,0 +1,83 @@
+{
+    "title": "THE ULTIMATE GUIDE FOR A PERFECT BANDEJA",
+    "url": "https://youtu.be/St_PRyzhZXY",
+    "duration": 406,
+    "language": "English",
+    "difficulty_level": 2,
+    "topics": [
+        "bandeja-technique",
+        "overhead-shots",
+        "defensive-play",
+        "court-positioning",
+        "shot-selection"
+    ],
+    "prerequisites": [
+        "Basic understanding of padel",
+        "Familiarity with overhead shots",
+        "Net play experience"
+    ],
+    "quality_score": 9,
+    "validation_status": true,
+    "sections_used": [],
+    "sections": [
+        {
+            "section_name": "Introduction and Overview",
+            "start_time": 0,
+            "end_time": 35,
+            "topics_covered": [
+                "Purpose of the bandeja shot",
+                "Basic vs. advanced applications",
+                "Importance of technique"
+            ]
+        },
+        {
+            "section_name": "Tactical Applications",
+            "start_time": 35,
+            "end_time": 147,
+            "topics_covered": [
+                "When to use the bandeja",
+                "Target placement (corners vs. center)",
+                "Creating recovery time",
+                "Maintaining attacking position",
+                "Ball placement strategies"
+            ]
+        },
+        {
+            "section_name": "Basic Technique",
+            "start_time": 147,
+            "end_time": 220,
+            "topics_covered": [
+                "Body positioning",
+                "Shoulder alignment",
+                "Using legs in the shot",
+                "Contact point height",
+                "Full body rotation"
+            ]
+        },
+        {
+            "section_name": "Advanced Technique",
+            "start_time": 220,
+            "end_time": 311,
+            "topics_covered": [
+                "Slice technique",
+                "Controlling ball rebound",
+                "Racket angle and position",
+                "Follow-through motion",
+                "Minimizing opponent counterattack opportunities"
+            ]
+        },
+        {
+            "section_name": "Defensive Perspective",
+            "start_time": 311,
+            "end_time": 385,
+            "topics_covered": [
+                "Returning different types of bandejas",
+                "Defensive strategies against low bandejas",
+                "Counterattack opportunities against high bandejas",
+                "Shot selection when defending"
+            ]
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Excellent instructional video on the bandeja shot, one of the most characteristic shots in padel. Coach Galo provides clear explanations of both basic and advanced techniques. Great visual demonstrations showing proper body positioning, grip, and shot execution with detailed analysis of when and how to use the bandeja effectively."
+}

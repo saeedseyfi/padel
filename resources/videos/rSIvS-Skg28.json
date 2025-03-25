@@ -1,0 +1,52 @@
+{
+    "title": "What is Padel? Presented by USPTA",
+    "url": "https://youtu.be/rSIvS-Skg28",
+    "duration": 59,
+    "language": "English",
+    "difficulty_level": 1,
+    "topics": [
+        "introduction",
+        "history",
+        "overview",
+        "beginner-essentials"
+    ],
+    "prerequisites": [],
+    "quality_score": 8,
+    "validation_status": true,
+    "sections_used": [
+        {
+            "topic": "History and origins",
+            "start_time": 0,
+            "end_time": 59,
+            "file_path": "README.md#session-1-introduction-to-padel-essential-equipment"
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Concise overview of padel's history and basic concepts by the United States Professional Tennis Association. Great introduction for tennis players transitioning to padel.",
+    "sections": [
+        {
+            "title": "Comparison to Tennis",
+            "start_time": 0,
+            "end_time": 15,
+            "description": "Introduces padel and compares it to tennis, explaining court dimensions (roughly 33 by 66 feet, about a third the size of a tennis court) and noting that it uses the same scoring system as tennis."
+        },
+        {
+            "title": "Basic Rules and Gameplay",
+            "start_time": 15,
+            "end_time": 28,
+            "description": "Explains fundamental rules including underhand serving, ball bounce requirements, and the ability to play off walls and sides. Emphasizes that 99% of play is doubles."
+        },
+        {
+            "title": "Skill Development and Accessibility",
+            "start_time": 28,
+            "end_time": 41,
+            "description": "Describes padel as a 'thinking person's sport' that is 'easy to learn and hard to master,' making it accessible for players of various skill levels to enjoy immediately."
+        },
+        {
+            "title": "Global Reach and Federation",
+            "start_time": 41,
+            "end_time": 59,
+            "description": "Provides statistics about padel's global presence, noting it's played in 78 countries with 30,000 courts worldwide and 35 different international federations. Concludes with information about USPTA certification."
+        }
+    ]
+}

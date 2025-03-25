@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "padel"
+version = "0.1.0"
+description = ""
+authors = ["Saeed Seyfi <me@saeedeyfi.com>"]
+license = "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International"
+readme = "README.md"
+packages = [{include = "src"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+openai = "^1.68.2"
+cohere = "^5.14.0"
+numpy = "^2.2.4"
+python-dotenv = "^1.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

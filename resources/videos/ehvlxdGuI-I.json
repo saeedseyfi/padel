@@ -1,0 +1,95 @@
+{
+    "title": "You NEED This To Start Padel: Padel Rackets, Padel Shoes, Balls, Grips",
+    "url": "https://youtu.be/ehvlxdGuI-I",
+    "duration": 364,
+    "language": "English",
+    "difficulty_level": 1,
+    "topics": [
+        "equipment",
+        "rackets",
+        "balls",
+        "grips",
+        "beginner-essentials"
+    ],
+    "prerequisites": [],
+    "quality_score": 9,
+    "validation_status": true,
+    "sections_used": [
+        {
+            "topic": "Racket selection",
+            "start_time": 22,
+            "end_time": 150,
+            "file_path": "README.md#session-6-net-play"
+        },
+        {
+            "topic": "Balls and accessories",
+            "start_time": 274,
+            "end_time": 330,
+            "file_path": "README.md#session-6-net-play"
+        },
+        {
+            "topic": "Grip and protection",
+            "start_time": 189,
+            "end_time": 270,
+            "file_path": "README.md#session-2-grip-and-stance"
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Comprehensive guide to essential padel equipment, covering racket selection, balls, grips, and protective gear. Perfect for beginners setting up their kit.",
+    "sections": [
+        {
+            "title": "Introduction to Essential Equipment",
+            "start_time": 0,
+            "end_time": 29,
+            "description": "Introduction to the video topic by Sandy from The Padel School with equipment specialist Toby Bowden, explaining they will cover the essential equipment new players need: rackets, shoes, balls, and grips."
+        },
+        {
+            "title": "Choosing the Right Racket",
+            "start_time": 29,
+            "end_time": 69,
+            "description": "Discussion of racket selection for beginners, explaining that new players often make mistakes by choosing rackets that are too cheap (which break down) or too expensive/hard (causing injuries). Recommends mid-range rackets (£80-150) that are softer and not too heavy."
+        },
+        {
+            "title": "Racket Shapes for Different Playing Styles",
+            "start_time": 69,
+            "end_time": 118,
+            "description": "Explanation of how to select the right racket shape based on playing style, even for beginners. Discusses that diamond/teardrop shapes with sweet spots at the top suit attacking players, while rounder rackets with lower sweet spots in the middle are better for defensive players and typically easier for beginners."
+        },
+        {
+            "title": "Testing and Trying Rackets",
+            "start_time": 118,
+            "end_time": 141,
+            "description": "Advice on the importance of testing rackets before purchasing rather than buying online. Recommends speaking to coaches, getting demos, trying on court, and asking other players to share their rackets to find the best fit."
+        },
+        {
+            "title": "Proper Footwear for Padel",
+            "start_time": 141,
+            "end_time": 189,
+            "description": "Discussion of appropriate footwear, warning against using running shoes which lack lateral support and are slippery on court surfaces. Recommends herringbone pattern shoes for sandy courts or all-court tennis shoes for newer courts with less sand, explaining the differences between court surfaces."
+        },
+        {
+            "title": "Grip Selection and Sizing",
+            "start_time": 189,
+            "end_time": 237,
+            "description": "Explanation of grip considerations, noting that padel rackets come with standard small grips unlike tennis rackets with multiple grip sizes. Advises adding one or two overgrips for comfort, especially for players with larger hands, and explains the different types of grips available (tacky, dry, etc.)."
+        },
+        {
+            "title": "Racket Protection and Maintenance",
+            "start_time": 237,
+            "end_time": 274,
+            "description": "Information about racket protectors for the top of the racket to prevent damage, showing examples of chipped rackets without protectors. Notes that protectors add weight to the top of the racket, affecting balance, which players should consider as they progress."
+        },
+        {
+            "title": "Padel Balls and Replacement Frequency",
+            "start_time": 274,
+            "end_time": 318,
+            "description": "Details about padel balls, explaining they're slightly smaller with lower compression than tennis balls. Describes how new balls bounce more off glass and ground, while older balls become soft and don't bounce as much. Recommends changing balls every 4-5 matches for recreational players, more frequently at higher levels."
+        },
+        {
+            "title": "Equipment Storage and Protection",
+            "start_time": 318,
+            "end_time": 359,
+            "description": "Final advice on protecting equipment, emphasizing the importance of using racket bags and proper storage to extend racket life. Warns against leaving rackets in hot cars which can damage them, and recommends taking rackets inside after play."
+        }
+    ]
+}

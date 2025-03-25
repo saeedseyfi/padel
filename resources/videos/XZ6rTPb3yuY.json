@@ -1,0 +1,88 @@
+{
+    "title": "The lob: six top tips from Mauri Andrini",
+    "url": "https://youtu.be/XZ6rTPb3yuY",
+    "duration": 256,
+    "language": "English",
+    "difficulty_level": 1,
+    "topics": [
+        "lob-technique",
+        "defensive-shots",
+        "shot-control",
+        "court-positioning",
+        "beginner-skills"
+    ],
+    "prerequisites": [
+        "Basic racket grip",
+        "Basic court movement",
+        "Ready position understanding"
+    ],
+    "quality_score": 9,
+    "validation_status": true,
+    "sections_used": [
+        {
+            "name": "Lob Technique",
+            "topics": [
+                "Proper grip and stance",
+                "Knee bend for power",
+                "Contact point control",
+                "Height and trajectory",
+                "Timing and placement"
+            ],
+            "start_time": 31,
+            "end_time": 165,
+            "file_path": "README.md#session-7-defensive-shots"
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Expert tutorial by former pro player Mauri Andrini covering essential lob techniques. Perfect for beginners learning defensive shots, with clear demonstrations of grip, stance, and execution. Emphasizes the importance of knee bend and proper contact point for effective lobs.",
+    "sections": [
+        {
+            "title": "Introduction to the Lob Shot",
+            "start_time": 0,
+            "end_time": 33,
+            "description": "Introduction by former pro player Mauri Andrini explaining the importance of the lob in padel, describing it as possibly the most important shot in the sport, with an emphasis on recognizing when to use this shot."
+        },
+        {
+            "title": "Basic Lob Technique Demonstration",
+            "start_time": 33,
+            "end_time": 70,
+            "description": "Demonstration of the proper lob technique with assistant Sam Jones, focusing on bending the knees and lifting the ball upward with a fluid motion from low to high. Shows examples of successful lobs with easy incoming balls."
+        },
+        {
+            "title": "Shot Selection for Lobs",
+            "start_time": 70,
+            "end_time": 105,
+            "description": "Discussion of when to use the lob shot, emphasizing that attempting lobs when under pressure can lead to poor execution. Demonstrates the contrast between lobs executed from comfortable positions versus difficult ones."
+        },
+        {
+            "title": "Lob as an Offensive Shot",
+            "start_time": 105,
+            "end_time": 133,
+            "description": "Explanation of how the lob can be an offensive rather than defensive shot when used at the right moment. Clarifies that lobs become defensive only when executed under pressure, reinforcing the importance of shot selection."
+        },
+        {
+            "title": "Knee Bend and Lifting Technique",
+            "start_time": 133,
+            "end_time": 165,
+            "description": "Detailed instruction on the proper body mechanics for executing a lob, with emphasis on bending the knees deeply and then lifting upward during ball contact. Multiple demonstrations showing the correct motion and follow-through."
+        },
+        {
+            "title": "Using the Back Wall for Better Lobs",
+            "start_time": 165,
+            "end_time": 195,
+            "description": "Tips on using the back wall to assist with lob execution, explaining how waiting for the ball to bounce off the back wall can make the shot easier since the wall has already redirected the ball's momentum."
+        },
+        {
+            "title": "Sound Difference in Proper Technique",
+            "start_time": 195,
+            "end_time": 245,
+            "description": "Demonstration of the audible difference between lobs executed with proper technique versus those hit using only wrist action. Shows how the sound of the ball on the paddle face changes when using full body mechanics with knee bend."
+        },
+        {
+            "title": "Conclusion and Summary",
+            "start_time": 245,
+            "end_time": 256,
+            "description": "Wrap-up summarizing the key tips for effective lobs in padel: proper knee bend, waiting for back wall rebounds when possible, and using full body mechanics rather than just wrist action."
+        }
+    ]
+}

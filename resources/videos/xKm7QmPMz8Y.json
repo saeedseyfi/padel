@@ -1,0 +1,94 @@
+{
+    "title": "Master the Padel Volley: Basic Net Play Techniques",
+    "url": "https://youtu.be/xKm7QmPMz8Y",
+    "duration": 245,
+    "language": "English",
+    "difficulty_level": 1,
+    "topics": [
+        "volley",
+        "net-play",
+        "basic-technique",
+        "beginner-essentials",
+        "smash",
+        "positioning"
+    ],
+    "prerequisites": [
+        "Basic grip",
+        "Proper stance",
+        "Court awareness"
+    ],
+    "quality_score": 9,
+    "validation_status": true,
+    "sections_used": [
+        {
+            "topic": "Volley fundamentals",
+            "start_time": 15,
+            "end_time": 90,
+            "file_path": "README.md#session-6-net-play"
+        },
+        {
+            "topic": "Basic smash technique",
+            "start_time": 120,
+            "end_time": 180,
+            "file_path": "README.md#session-6-net-play"
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Clear explanation of basic volley and smash techniques with focus on proper preparation and contact point. Perfect for beginners learning net play fundamentals.",
+    "sections": [
+        {
+            "title": "Introduction to Net Play",
+            "start_time": 0,
+            "end_time": 15,
+            "description": "Introduction to the importance of effective net play in padel, explaining how proper volley technique and positioning can significantly improve a player's overall game."
+        },
+        {
+            "title": "Forehand Volley Fundamentals",
+            "start_time": 15,
+            "end_time": 45,
+            "description": "Detailed breakdown of the forehand volley technique, covering grip, preparation, racket face angle, and proper contact point for consistent and controlled forehand volleys."
+        },
+        {
+            "title": "Backhand Volley Technique",
+            "start_time": 45,
+            "end_time": 75,
+            "description": "Comprehensive instruction on backhand volley execution, highlighting the proper stance, racket preparation, and contact position for effective backhand volleys at the net."
+        },
+        {
+            "title": "Volley Drills and Common Errors",
+            "start_time": 75,
+            "end_time": 90,
+            "description": "Practical drills to improve volley technique, along with identification and correction of common errors beginners make when executing volleys at the net."
+        },
+        {
+            "title": "Net Positioning Strategy",
+            "start_time": 90,
+            "end_time": 120,
+            "description": "Guidance on optimal positioning at the net, explaining court coverage, distance from the net, and partner coordination to maximize effectiveness during net play."
+        },
+        {
+            "title": "Basic Smash Technique",
+            "start_time": 120,
+            "end_time": 150,
+            "description": "Step-by-step instruction on the fundamental smash technique, covering proper preparation, tracking the ball, contact point, and follow-through for powerful overhead shots."
+        },
+        {
+            "title": "Smash Variations and Applications",
+            "start_time": 150,
+            "end_time": 180,
+            "description": "Exploration of different smash variations including flat, topspin, and defensive smashes, with guidance on when to use each type based on game situations."
+        },
+        {
+            "title": "Transitioning Between Shots",
+            "start_time": 180,
+            "end_time": 210,
+            "description": "Instruction on smoothly transitioning between different net play shots, focusing on recovery positions and preparation for subsequent shots after volleys or smashes."
+        },
+        {
+            "title": "Practice Recommendations",
+            "start_time": 210,
+            "end_time": 245,
+            "description": "Practical training advice and progressive practice routines designed to develop net play skills, with specific exercises to improve both volley and smash techniques."
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Join Tasty Padel Training 1: Defense with walls",
+    "url": "https://youtu.be/ZJVxA0HVPmk",
+    "duration": 285,
+    "language": "English",
+    "difficulty_level": 2,
+    "topics": [
+        "defensive-play",
+        "wall-techniques",
+        "glass-rebounds",
+        "corner-rebounds",
+        "defensive-positioning"
+    ],
+    "prerequisites": [
+        "Basic understanding of padel",
+        "Familiarity with defensive positioning",
+        "Basic racket control skills"
+    ],
+    "quality_score": 8,
+    "validation_status": true,
+    "sections_used": [],
+    "sections": [
+        {
+            "title": "Introduction to Wall Defense Technique",
+            "start_time": 0,
+            "end_time": 43,
+            "description": "Coach Gabo introduces the fundamental technique for wall defense, emphasizing the proper stance with leg and racket positioning as the essential foundation for all wall shots."
+        },
+        {
+            "title": "Practicing Basic Wall Shots",
+            "start_time": 43,
+            "end_time": 67,
+            "description": "Demonstration and practice of the basic technique with live balls, showing how to maintain proper stance while adjusting to different ball speeds and directions."
+        },
+        {
+            "title": "Corner Panel Rebounds",
+            "start_time": 67,
+            "end_time": 119,
+            "description": "Explanation and practice of handling balls that hit the side panels (corners) of the court, focusing on adapting the same technique to these specific rebounds."
+        },
+        {
+            "title": "Double Rebound Technique",
+            "start_time": 119,
+            "end_time": 167,
+            "description": "Instruction on handling balls that hit the second side glass and potentially reach the back wall, requiring deeper steps and more adjustment."
+        },
+        {
+            "title": "Spin/Conversion Technique",
+            "start_time": 167,
+            "end_time": 226,
+            "description": "Coach explains when and how to apply spin (which he calls 'conversion') when the ball is cross-court and close to the player's leg, demonstrating how this technique helps maintain optimal defensive position."
+        },
+        {
+            "title": "Back Glass Defense",
+            "start_time": 226,
+            "end_time": 285,
+            "description": "Final instruction on handling balls that hit the back glass, emphasizing patience to let the ball separate from the glass before applying the same defensive technique."
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Excellent instructional video with professional coach Gabo teaching comprehensive wall defense techniques. The coach breaks down the single fundamental technique that applies to all wall shots, then systematically demonstrates how to adapt it to different scenarios (side panels, double rebounds, etc.). Clear demonstrations with student Riikka make concepts easy to understand. High quality coaching with specific technical details that intermediate players can apply immediately."
+}

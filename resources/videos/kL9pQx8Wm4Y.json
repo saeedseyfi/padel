@@ -1,0 +1,87 @@
+{
+    "title": "Essential Padel Defense: Lobs & Wall Play",
+    "url": "https://youtu.be/kL9pQx8Wm4Y",
+    "duration": 280,
+    "language": "English",
+    "difficulty_level": 1,
+    "topics": [
+        "defensive-shots",
+        "lob",
+        "wall-play",
+        "basic-technique",
+        "beginner-essentials"
+    ],
+    "prerequisites": [
+        "Basic grip",
+        "Proper stance",
+        "Court awareness"
+    ],
+    "quality_score": 9,
+    "validation_status": true,
+    "sections_used": [
+        {
+            "topic": "Lob technique",
+            "start_time": 25,
+            "end_time": 95,
+            "file_path": "README.md#session-7-defensive-shots"
+        },
+        {
+            "topic": "Wall play basics",
+            "start_time": 140,
+            "end_time": 210,
+            "file_path": "README.md#session-8-wall-play-fundamentals"
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Comprehensive guide to basic defensive shots with clear focus on lob technique and wall play fundamentals. Great explanations of when and how to use defensive options.",
+    "sections": [
+        {
+            "title": "Introduction to Defensive Play",
+            "start_time": 0,
+            "end_time": 25,
+            "description": "Introduction to the importance of defensive shots in padel, explaining the key role of both lobs and wall play in maintaining court position and recovering from defensive situations."
+        },
+        {
+            "title": "Basic Lob Technique",
+            "start_time": 25,
+            "end_time": 60,
+            "description": "Detailed explanation of the fundamental lob technique, including proper racket preparation, contact point, and follow-through motion to achieve consistent height and depth on defensive lobs."
+        },
+        {
+            "title": "Lob Variations and Applications",
+            "start_time": 60,
+            "end_time": 95,
+            "description": "Demonstration of different types of lobs (defensive and offensive) and when to use each variation, with examples of tactical situations where lobs can be effectively employed to regain court position."
+        },
+        {
+            "title": "Transition from Defense to Offense",
+            "start_time": 95,
+            "end_time": 140,
+            "description": "Instruction on how to transition from defensive shots back to offensive positions, with emphasis on patience and shot selection during defensive situations."
+        },
+        {
+            "title": "Wall Play Fundamentals",
+            "start_time": 140,
+            "end_time": 175,
+            "description": "Introduction to the basics of playing balls off the wall, including positioning, timing, and reading ball trajectories after wall rebounds to maintain defensive stability."
+        },
+        {
+            "title": "Back Wall Techniques",
+            "start_time": 175,
+            "end_time": 210,
+            "description": "Specific techniques for handling balls that rebound off the back wall, demonstrating proper footwork, preparation, and stroke mechanics to effectively return these challenging shots."
+        },
+        {
+            "title": "Side Wall Play",
+            "start_time": 210,
+            "end_time": 245,
+            "description": "Techniques for handling balls that rebound off side walls, including positioning adjustments and racket angle modifications needed for these uniquely challenging shots."
+        },
+        {
+            "title": "Defensive Drills and Practice Recommendations",
+            "start_time": 245,
+            "end_time": 280,
+            "description": "Practical drills and exercises designed to improve defensive skills, with specific practice recommendations to develop both lob technique and wall play abilities."
+        }
+    ]
+}

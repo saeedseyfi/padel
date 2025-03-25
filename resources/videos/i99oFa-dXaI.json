@@ -1,0 +1,119 @@
+{
+    "title": "Padel 101: Everything You Need to Know for Beginners",
+    "url": "https://youtu.be/i99oFa-dXaI",
+    "duration": 700,
+    "language": "English",
+    "difficulty_level": 1,
+    "topics": [
+        "introduction",
+        "rules",
+        "court-dimensions",
+        "scoring",
+        "beginner-essentials"
+    ],
+    "prerequisites": [],
+    "quality_score": 9,
+    "validation_status": true,
+    "sections_used": [
+        {
+            "topic": "Basic rules and scoring",
+            "start_time": 0,
+            "end_time": 180,
+            "file_path": "README.md#session-1-introduction-to-padel-essential-equipment"
+        },
+        {
+            "topic": "Court layout and dimensions",
+            "start_time": 180,
+            "end_time": 300,
+            "file_path": "README.md#session-1-introduction-to-padel-essential-equipment"
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Comprehensive introduction to padel covering rules, court dimensions, and basic gameplay concepts. Perfect for complete beginners to understand the fundamentals of the sport.",
+    "sections": [
+        {
+            "title": "Introduction to Padel",
+            "start_time": 0,
+            "end_time": 35,
+            "description": "Introduction to the padel game, explaining that it has its own rules and official regulations that may initially seem complicated but are actually straightforward once learned. Sets up the video's purpose of explaining padel game rules to beginners."
+        },
+        {
+            "title": "Court Dimensions and Layout",
+            "start_time": 35,
+            "end_time": 95,
+            "description": "Detailed explanation of the padel court's physical characteristics, including dimensions (10m × 20m), net specifications (0.88m-0.92m high), wall enclosures (3-4m high), and playing surface materials (cement, synthetic material, or grass). Mentions that walls can be used in rallies similar to squash."
+        },
+        {
+            "title": "Scoring System",
+            "start_time": 95,
+            "end_time": 155,
+            "description": "Comprehensive breakdown of padel's scoring system, explaining points (15, 30, 40, game), sets (first to 6 games with 2-game lead), match format (best of 3 sets), deuce situations, and tie-break rules when the set score reaches 6-6."
+        },
+        {
+            "title": "Time Intervals and Court Changes",
+            "start_time": 155,
+            "end_time": 200,
+            "description": "Explanation of rest periods and court changes during matches, including when players switch ends, maximum time allowed between points (20 seconds), breaks when changing ends (90 seconds), and set breaks (2 minutes)."
+        },
+        {
+            "title": "Player Positions and Court Placement",
+            "start_time": 200,
+            "end_time": 240,
+            "description": "Describes how players position themselves on the court, explaining that the server must hit cross-court, while receivers can position themselves anywhere on their side. All players must be within court boundaries for points to begin."
+        },
+        {
+            "title": "Serve Rules and Technique",
+            "start_time": 240,
+            "end_time": 330,
+            "description": "Detailed instruction on padel service rules, including that servers get two chances, must serve underhand below waist height, must stand behind the service line, and must hit diagonally into the receiver's service box. Covers serve faults and when second serves are allowed."
+        },
+        {
+            "title": "Service Return Rules",
+            "start_time": 330,
+            "end_time": 410,
+            "description": "Explains rules for returning serves, including that receivers must wait for the ball to bounce before hitting it, how receiving order is determined at the start of sets, and when points are awarded to servers based on receiver actions."
+        },
+        {
+            "title": "Let and Net Service Rules",
+            "start_time": 410,
+            "end_time": 455,
+            "description": "Clarifies when a serve is considered a 'let' (when the ball touches the net before landing in the correct service box) and other situations that result in replaying points, including when receivers aren't ready."
+        },
+        {
+            "title": "Ball in Play and Point Repetitions",
+            "start_time": 455,
+            "end_time": 500,
+            "description": "Covers situations when points must be replayed (let calls), including when the ball splits during play, when external elements enter the court, or when interruptions occur that are unrelated to players."
+        },
+        {
+            "title": "Interference Rules",
+            "start_time": 500,
+            "end_time": 535,
+            "description": "Explains how interference is handled during matches, differentiating between intentional distractions (point awarded to opponent) and unintentional interference (point replayed as a let)."
+        },
+        {
+            "title": "Ball in Play and Court Boundaries",
+            "start_time": 535,
+            "end_time": 595,
+            "description": "Details when a ball remains in play after bouncing on the opponent's side, defining court boundaries to include walls, metallic mesh fence, ground, net, and net posts, with clarification on what constitutes part of the playing area."
+        },
+        {
+            "title": "Point Loss Conditions",
+            "start_time": 595,
+            "end_time": 645,
+            "description": "Comprehensive list of situations resulting in point loss, including when players touch the opponent's side/net, when the ball bounces twice, when the ball exits the court, hitting before crossing the net, double hitting, and double faults."
+        },
+        {
+            "title": "Valid Return Requirements",
+            "start_time": 645,
+            "end_time": 680,
+            "description": "Explains what constitutes a correct return in padel, including direct returns to opponent's court, ball bouncing off walls before crossing to opponent's side, and valid interactions with court fixtures and equipment."
+        },
+        {
+            "title": "Conclusion and Learning Resources",
+            "start_time": 680,
+            "end_time": 700,
+            "description": "Final remarks on effective ways to improve padel skills, including watching coaching videos, playing with better players, and viewing professional WPT matches. Encourages viewers to subscribe for more padel-related content."
+        }
+    ]
+}

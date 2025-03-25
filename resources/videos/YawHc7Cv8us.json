@@ -1,0 +1,61 @@
+{
+    "title": "The Padel Forehand",
+    "url": "https://youtu.be/YawHc7Cv8us",
+    "duration": 90,
+    "language": "English",
+    "difficulty_level": 1,
+    "topics": [
+        "forehand",
+        "groundstrokes",
+        "basic-technique",
+        "beginner-essentials"
+    ],
+    "prerequisites": [
+        "Proper grip",
+        "Basic stance"
+    ],
+    "quality_score": 9,
+    "validation_status": true,
+    "sections_used": [
+        {
+            "topic": "Basic forehand technique",
+            "start_time": 13,
+            "end_time": 120,
+            "file_path": "README.md#session-4-groundstrokes"
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Clear and concise explanation of the basic padel forehand technique. Excellent demonstration of proper form and common mistakes to avoid. Perfect for beginners learning the fundamental groundstroke.",
+    "sections": [
+        {
+            "title": "Introduction to the Forehand",
+            "start_time": 0,
+            "end_time": 13,
+            "description": "Brief introduction by Sandy from The Padel School, explaining that the forehand is one of the two basic groundstroke shots in padel, setting up the instructional content that follows."
+        },
+        {
+            "title": "Three-Step Forehand Breakdown",
+            "start_time": 13,
+            "end_time": 39,
+            "description": "Detailed breakdown of the forehand into three main components: first taking the racket back with a shoulder turn from the ready position, then positioning the feet sideways to the court for proper weight transfer, and finally executing a horizontal swing with contact in front of the hip and following through."
+        },
+        {
+            "title": "Sequence Demonstration",
+            "start_time": 39,
+            "end_time": 63,
+            "description": "Visual demonstration showing the proper sequence of movements - taking the racket back before moving the feet into position, highlighting the importance of timing in the forehand technique."
+        },
+        {
+            "title": "Common Mistakes to Avoid",
+            "start_time": 63,
+            "end_time": 75,
+            "description": "Identifies a common mistake where players hit with an open stance rather than stepping into the ball. Shows how to properly adjust positioning for higher balls by moving backward and raising the racket position while maintaining the same basic technique."
+        },
+        {
+            "title": "Technique Recap",
+            "start_time": 75,
+            "end_time": 90,
+            "description": "Final summary of the three key steps: taking the racket back with a shoulder turn, moving the feet into a balanced position, and swinging through the ball smoothly. Reinforces the fundamental mechanics for a proper padel forehand."
+        }
+    ]
+}

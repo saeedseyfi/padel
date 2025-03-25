@@ -1,0 +1,86 @@
+{
+    "title": "Padel Tactics: Moving As A Pair",
+    "url": "https://youtu.be/wvRtIkBzbGM",
+    "duration": 363,
+    "language": "English",
+    "difficulty_level": 2,
+    "topics": [
+        "team-tactics",
+        "movement-patterns",
+        "communication",
+        "intermediate-skills"
+    ],
+    "prerequisites": [
+        "Basic doubles play",
+        "Court positioning",
+        "Level 1 completion"
+    ],
+    "quality_score": 9,
+    "validation_status": true,
+    "sections_used": [
+        {
+            "topic": "Strategic communication",
+            "start_time": 0,
+            "end_time": 150,
+            "file_path": "README.md#session-9-doubles-strategy-essentials"
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Excellent guide to team movement and tactical coordination in padel doubles. Focuses on synchronized positioning, tactical adjustments, and reading game situations as a pair.",
+    "sections": [
+        {
+            "title": "Introduction to Moving as a Pair",
+            "start_time": 0,
+            "end_time": 33,
+            "description": "Introduction to the concept of moving as a pair in padel, highlighting its importance for tactical play. Explains that the video will cover both forward/backward movement and lateral (side-to-side) movement on the court."
+        },
+        {
+            "title": "Forward and Backward Movement Principles",
+            "start_time": 33,
+            "end_time": 65,
+            "description": "Explanation of the fundamental principle that players aim to gain and maintain the net position as much as possible. Discusses how players typically start (returners at the back, servers at the net) and the objective of approaching the net together."
+        },
+        {
+            "title": "Moving to Net Position Together",
+            "start_time": 65,
+            "end_time": 98,
+            "description": "Details on how and when to approach the net as a pair, emphasizing that separating creates dangerous gaps. Explains that players should come forward together after executing effective shots like lobs or chiquitas to minimize opponent's attacking angles."
+        },
+        {
+            "title": "Maintaining and Recovering Net Position",
+            "start_time": 98,
+            "end_time": 144,
+            "description": "Strategies for maintaining the advantageous net position as long as possible and how to handle situations when one player is lobbed. Discusses when to stay at the net if partner can recover quickly versus when both players should retreat to defensive positions."
+        },
+        {
+            "title": "Advanced Positioning Considerations",
+            "start_time": 144,
+            "end_time": 187,
+            "description": "Explanation of the general principle of moving as a pair versus professional-level exceptions. Clarifies responsibilities for covering your own half of the court and illustrates with examples from professional play showing good team movement patterns."
+        },
+        {
+            "title": "Communication During Position Changes",
+            "start_time": 187,
+            "end_time": 224,
+            "description": "Emphasizes the critical role of communication when players are changing positions, particularly when a player is retrieving a lob from the back wall. Explains how knowing opponent positions affects shot selection and the importance of partner information."
+        },
+        {
+            "title": "Lateral Movement Coordination",
+            "start_time": 224,
+            "end_time": 271,
+            "description": "Principles of side-to-side movement coordination between partners, highlighting how to cover for each other when one player is pulled to the side. Explains the differences in lateral positioning requirements at the back of the court versus at the net."
+        },
+        {
+            "title": "Line and Center Coverage Responsibilities",
+            "start_time": 271,
+            "end_time": 322,
+            "description": "Detailed explanation of line versus center court coverage responsibilities when playing at the net. Shows how the player down the line must cover their line while their partner covers the center, with examples from professional play."
+        },
+        {
+            "title": "Conclusion and Professional Adaptations",
+            "start_time": 322,
+            "end_time": 363,
+            "description": "Summary of the key principles of pair movement covered in the video, with acknowledgment that professional players may make exceptions to these rules. Reinforces that for typical competitive play, the paired movement principles will serve players well."
+        }
+    ]
+}

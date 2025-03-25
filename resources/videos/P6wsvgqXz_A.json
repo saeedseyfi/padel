@@ -1,0 +1,74 @@
+{
+    "title": "3 TIPS for Padel Forehand!",
+    "url": "https://youtu.be/P6wsvgqXz_A",
+    "duration": 329,
+    "language": "English",
+    "difficulty_level": 1,
+    "topics": [
+        "forehand",
+        "groundstrokes",
+        "common-mistakes",
+        "technique-tips",
+        "beginner-essentials"
+    ],
+    "prerequisites": [
+        "Basic forehand technique",
+        "Proper grip"
+    ],
+    "quality_score": 8,
+    "validation_status": true,
+    "sections_used": [
+        {
+            "topic": "Common forehand mistakes",
+            "start_time": 232,
+            "end_time": 300,
+            "file_path": "README.md#session-6-net-play"
+        }
+    ],
+    "transcript_validation": true,
+    "notes": "Excellent breakdown of common forehand mistakes and their corrections. Focuses on preparation, timing, and proper technique. Great follow-up to the basic forehand tutorial.",
+    "sections": [
+        {
+            "title": "Introduction to Forehand Importance",
+            "start_time": 0,
+            "end_time": 38,
+            "description": "Introduction emphasizing how many players focus on advanced shots like chiquitas and lobs while neglecting their basic forehand. Explains that mastering the forehand is essential for progressing to intermediate and advanced levels of play."
+        },
+        {
+            "title": "Fundamental Forehand Technique",
+            "start_time": 38,
+            "end_time": 93,
+            "description": "Explanation of the fundamental forehand technique that applies both before and after the ball hits the glass wall. Emphasizes early preparation, shoulder rotation, and compact swing rather than the big looping swing used in tennis."
+        },
+        {
+            "title": "Footwork and Stance Options",
+            "start_time": 93,
+            "end_time": 165,
+            "description": "Detailed breakdown of footwork and stance options for the forehand, differentiating between the neutral stance (side-on position) and open stance. Provides guidance on when each stance is appropriate based on ball position and available time."
+        },
+        {
+            "title": "Stance Selection Decision-Making",
+            "start_time": 165,
+            "end_time": 232,
+            "description": "Further exploration of stance selection, warning against choosing an open stance out of laziness when a neutral stance would provide better stability and control. Emphasizes the importance of making deliberate stance decisions based on each specific situation."
+        },
+        {
+            "title": "Common Forehand Errors",
+            "start_time": 232,
+            "end_time": 268,
+            "description": "Analysis of the most common forehand errors, focusing primarily on late preparation due to missed split steps or excessive ball watching. Provides specific advice on timing the split step with opponent's ball contact and immediate racket preparation."
+        },
+        {
+            "title": "Shot Selection Considerations",
+            "start_time": 268,
+            "end_time": 296,
+            "description": "Discussion of shot selection errors, emphasizing the importance of playing within one's capabilities rather than attempting difficult shots when stretched or facing low balls. Stresses the connection between appropriate shot selection and consistency."
+        },
+        {
+            "title": "Conclusion and Additional Resources",
+            "start_time": 296,
+            "end_time": 329,
+            "description": "Summary reinforcing the importance of mastering basic forehand technique before progressing to more complex shots, with references to additional resources including a 'Learn the Basics' course and supporting videos on flat hitting technique from the back of the court."
+        }
+    ]
+}
